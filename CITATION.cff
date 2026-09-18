@@ -25,5 +25,7 @@ authors:
     given-names: Weimin
 version: "1.0.0"
 date-released: 2026-09-18
+doi: 10.5281/zenodo.22826897
+url: "https://doi.org/10.5281/zenodo.22826897"
 license: BSD-3-Clause
 repository-code: "https://github.com/Qybc/ms3-functional-trajectories"

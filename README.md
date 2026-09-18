@@ -80,8 +80,8 @@ and `THIRD_PARTY_NOTICES.md`.
 Repository and archival record:
 
 - Repository: https://github.com/Qybc/ms3-functional-trajectories
-- Archived release: a versioned Zenodo record will be created before public
-  release.
+- Archived release: https://doi.org/10.5281/zenodo.22826897 (reserved DOI;
+  activated when the Zenodo record is published).
 
 Author-owned source code is released under the BSD 3-Clause License in
 `LICENSE`. Author-generated, redistributable data and documentation are released
@@ -91,4 +91,4 @@ the excluded third-party resources listed in `THIRD_PARTY_NOTICES.md`.
 ## Citation
 
 Please cite the associated manuscript and the archived release. Repository
-metadata are provided in `CITATION.cff` and will be updated with the final DOI.
+metadata, including the reserved archival DOI, are provided in `CITATION.cff`.

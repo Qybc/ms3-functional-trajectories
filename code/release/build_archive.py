@@ -32,7 +32,8 @@ def main() -> None:
         if path.is_file()
         and path.name not in EXCLUDED_NAMES
         and not path.name.startswith("._")
-        and "__pycache__" not in path.parts
+        and ".git" not in path.relative_to(root).parts
+        and "__pycache__" not in path.relative_to(root).parts
         and path.suffix != ".pyc"
     )
     output.parent.mkdir(parents=True, exist_ok=True)

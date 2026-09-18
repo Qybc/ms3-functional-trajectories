@@ -24,7 +24,15 @@ def main() -> None:
     root = args.release_root.resolve()
     output = root / "manifests/MANIFEST.tsv"
     files = sorted(
-        path for path in root.rglob("*") if path.is_file() and path.resolve() != output.resolve()
+        path
+        for path in root.rglob("*")
+        if path.is_file()
+        and path.resolve() != output.resolve()
+        and ".git" not in path.relative_to(root).parts
+        and path.name != ".DS_Store"
+        and not path.name.startswith("._")
+        and "__pycache__" not in path.relative_to(root).parts
+        and path.suffix != ".pyc"
     )
     output.parent.mkdir(parents=True, exist_ok=True)
     with output.open("w", encoding="utf-8", newline="") as handle:
