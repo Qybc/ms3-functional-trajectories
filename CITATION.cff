@@ -1,0 +1,29 @@
+cff-version: 1.2.0
+message: "If you use this data or code, please cite the associated manuscript."
+title: "MS3 data and code for evidence-linked functional trajectories"
+type: dataset
+authors:
+  - family-names: Chen
+    given-names: Qiuhui
+  - family-names: Tang
+    given-names: Shuaimin
+  - family-names: Lu
+    given-names: Jiafan
+  - family-names: Ding
+    given-names: Ding
+  - family-names: Dai
+    given-names: Tao
+  - family-names: Du
+    given-names: Xinyue
+  - family-names: Luo
+    given-names: Zilu
+  - family-names: Ji
+    given-names: Chenrui
+  - family-names: Yuan
+    given-names: Yuan
+  - family-names: Zhong
+    given-names: Weimin
+version: "1.0.0"
+date-released: 2026-09-18
+license: BSD-3-Clause
+repository-code: "https://github.com/Qybc/ms3-functional-trajectories"

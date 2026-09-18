@@ -1,0 +1,25 @@
+benchmark,metric,n_items,method,score_percent,missing_outputs_scored_incorrect
+LitQA2-FullText,exact-label accuracy,75,MS3 Agent,44.0,True
+LitQA2-FullText,exact-label accuracy,75,DeepSeek V4 Pro,32.0,True
+LitQA2-FullText,exact-label accuracy,75,Kimi K3,33.3,True
+LitQA2-FullText,exact-label accuracy,75,GLM-5.2,16.0,True
+LitQA2-FullText,exact-label accuracy,75,PaperQA2,4.0,True
+LitQA2-FullText,exact-label accuracy,75,OpenScholar,17.3,True
+ScholarQA-CS2,official global average,100,MS3 Agent,66.0,True
+ScholarQA-CS2,official global average,100,DeepSeek V4 Pro,31.9,True
+ScholarQA-CS2,official global average,100,Kimi K3,49.5,True
+ScholarQA-CS2,official global average,100,GLM-5.2,43.5,True
+ScholarQA-CS2,official global average,100,PaperQA2,31.1,True
+ScholarQA-CS2,official global average,100,OpenScholar,54.0,True
+SciCUEval Materials,eight-stratum macro-average,200,MS3 Agent,98.0,True
+SciCUEval Materials,eight-stratum macro-average,200,DeepSeek V4 Pro,91.0,True
+SciCUEval Materials,eight-stratum macro-average,200,Kimi K3,84.0,True
+SciCUEval Materials,eight-stratum macro-average,200,GLM-5.2,91.5,True
+SciCUEval Materials,eight-stratum macro-average,200,PaperQA2,40.5,True
+SciCUEval Materials,eight-stratum macro-average,200,OpenScholar,48.5,True
+FS EvidenceQA,normalized 0-4 composite,120,MS3 Agent,82.6,True
+FS EvidenceQA,normalized 0-4 composite,120,DeepSeek V4 Pro,66.4,True
+FS EvidenceQA,normalized 0-4 composite,120,Kimi K3,77.2,True
+FS EvidenceQA,normalized 0-4 composite,120,GLM-5.2,72.0,True
+FS EvidenceQA,normalized 0-4 composite,120,PaperQA2,67.9,True
+FS EvidenceQA,normalized 0-4 composite,120,OpenScholar,55.2,True

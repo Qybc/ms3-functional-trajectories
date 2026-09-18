@@ -1,0 +1,5 @@
+metric,unit,Role Graph,MS3,MS3_minus_Role_Graph,evaluation_note
+Final-workspace source recall,percent,61.3,82.9,21.60000000000001,Matched representation ablation; separate from the seven-method blind FS evaluation
+All claims evidence-grounded,percent,69.2,90.0,20.799999999999997,Matched representation ablation; separate from the seven-method blind FS evaluation
+Unsupported claims per question,count,2.275,1.567,-0.708,Matched representation ablation; separate from the seven-method blind FS evaluation
+Tool calls per question,count,4.79,3.88,-0.9100000000000001,Matched representation ablation; separate from the seven-method blind FS evaluation

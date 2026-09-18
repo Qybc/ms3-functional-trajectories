@@ -1,0 +1,66 @@
+{
+  "version": "submission-v1",
+  "displayed_methods": [
+    "MS3 Agent",
+    "DeepSeek V4 Pro",
+    "Kimi K3",
+    "GLM-5.2",
+    "PaperQA2",
+    "OpenScholar"
+  ],
+  "evaluations": [
+    {
+      "name": "LitQA2-FullText",
+      "n_items": 75,
+      "primary_metric": "exact-label accuracy",
+      "missing_outputs_scored_incorrect": true,
+      "item_level_final_archive_status": "not included in verified public snapshot"
+    },
+    {
+      "name": "ScholarQA-CS2",
+      "n_items": 100,
+      "primary_metric": "official global average",
+      "missing_outputs_scored_incorrect": true,
+      "item_level_final_archive_status": "not included in verified public snapshot"
+    },
+    {
+      "name": "SciCUEval Materials",
+      "n_items": 200,
+      "primary_metric": "eight-stratum macro-average",
+      "missing_outputs_scored_incorrect": true,
+      "item_level_final_archive_status": "not included in verified public snapshot"
+    },
+    {
+      "name": "FS EvidenceQA",
+      "n_items": 120,
+      "primary_metric": "unweighted mean of four 0-4 dimensions",
+      "subgroups": {
+        "single_paper": 60,
+        "cross_paper": 60
+      },
+      "dimensions": [
+        "scientific correctness",
+        "source groundedness",
+        "evidence completeness",
+        "evidence-boundary control"
+      ],
+      "unsupported_claims_counted_separately": true,
+      "item_level_numeric_archive_status": "included"
+    }
+  ],
+  "uncertainty": {
+    "bootstrap_replicates": 10000,
+    "paired_by_question": true,
+    "scicueval_strata_preserved": true,
+    "secondary_contrasts_multiplicity_adjusted": false
+  },
+  "matched_representation_experiment": {
+    "comparison": "Role Graph versus MS3",
+    "held_fixed": [
+      "controller",
+      "corpus",
+      "six-tool-call budget"
+    ],
+    "separate_from_six_system_fs_comparison": true
+  }
+}

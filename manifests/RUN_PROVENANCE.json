@@ -1,0 +1,115 @@
+{
+  "schema": "ms3.run-provenance.v1",
+  "release_version": "1.0.0",
+  "status_date": "2026-09-18",
+  "corpus": {
+    "scope": "conductive-fibre flexible sensors",
+    "publication_years": "2010-2026 (2026 partial)",
+    "papers": 13689,
+    "evidence_items": 131083,
+    "trajectory_records": 26648,
+    "complete_trajectories": 15703,
+    "full_text": "controlled reviewer access where licensing permits; not included in public release",
+    "public_derived_records": {
+      "strict_paper_trajectory_units": 4127,
+      "new_complete_trajectories_2022_2025": 1302,
+      "contains_publisher_full_text_or_long_excerpts": false
+    }
+  },
+  "analyses": {
+    "public_benchmarks": {
+      "sets": {
+        "LitQA2-FullText": 75,
+        "ScholarQA-CS2": 100,
+        "SciCUEval Materials": 200
+      },
+      "released_level": "frozen complete-set aggregate scores",
+      "per_item_outputs": "not included in verified public snapshot"
+    },
+    "fs_evidenceqa": {
+      "questions": 120,
+      "displayed_systems": 6,
+      "released_rows": 720,
+      "judge_model": "qwen3-30b-a3b-instruct-2507",
+      "method_identity_hidden_during_scoring": true,
+      "paired_bootstrap_replicates": 10000
+    },
+    "historical_backtesting": {
+      "cutoffs": [2018, 2019, 2020, 2021],
+      "outcome_horizon_years": 4,
+      "endpoints": [
+        "exact evidence-supported closure",
+        "system-validated closure"
+      ],
+      "structure_plus_evidence_status": "retrospective"
+    },
+    "conductive_network_experiment": {
+      "architectures": [
+        "CNT/CB single layer",
+        "CNT/CB-Ag dual layer"
+      ],
+      "independent_devices_per_architecture": 3,
+      "main_figure_traces": "representative five-cycle windows"
+    },
+    "cardiac_interface_experiment": {
+      "mechanical_and_electrical_specimens_per_group": 5,
+      "porcine_animals": 2,
+      "physiological_conditions": [
+        "baseline",
+        "esmolol-induced slowing",
+        "120-bpm ventricular pacing"
+      ],
+      "analysis_scope": "descriptive acute feasibility"
+    }
+  },
+  "artifacts": [
+    {
+      "relative_path": "data/fig2_agent_evaluation/benchmark_summary.csv",
+      "sha256": "ecd83e3f4f89f67ad8e376b093ea505213fb4ac901b87c23e8ccd536cc896c37"
+    },
+    {
+      "relative_path": "data/fig2_agent_evaluation/fs_evidenceqa_per_item_scores.csv",
+      "sha256": "b5baa88a82627b7284de549330f965c8ca8929bb51785609699e92806288cd35"
+    },
+    {
+      "relative_path": "data/fig2_agent_evaluation/fs_evidenceqa_blind_summary.json",
+      "sha256": "19bca2ce9da811e8a5990a26af933ddf48cb7c3881afbdafe02f285f661ef90d"
+    },
+    {
+      "relative_path": "data/fig3_innovation_backtesting/strict_primary_trajectory_units.csv",
+      "sha256": "831f2c69b3643d55fbfda8948ebebea1076dbe05a509f0fed390d3dcd069a8e5"
+    },
+    {
+      "relative_path": "data/fig3_innovation_backtesting/new_complete_trajectories_2022_2025_row_level.csv",
+      "sha256": "8b87dff0c9457272073e0cd5c23db00407c034524d805453e633dbaa40765f81"
+    },
+    {
+      "relative_path": "data/fig3_innovation_backtesting/ranked_top100_candidates.csv",
+      "sha256": "71076399b6c353134931fc273dbaa567092a4d04ab15087c7b846f3fc8689e4f"
+    },
+    {
+      "relative_path": "data/fig3_innovation_backtesting/top100_closure_summary.csv",
+      "sha256": "34e25b47756551633582c2b3283240edcedbd8002c70f5880b7b32f09bd9effb"
+    },
+    {
+      "relative_path": "data/fig4_conductive_network/raw/CNT_CB_single_layer_raw.xlsx",
+      "sha256": "0dd04ad6e74a7ad2ea2341a2876c1ec6bbbe53914635cf68d92c8fd5358a73ca"
+    },
+    {
+      "relative_path": "data/fig4_conductive_network/raw/CNT_CB_Ag_dual_layer_raw.xlsx",
+      "sha256": "6555f6db95b6e960c8b02218182e2ba7d019f72671cd1205f9d423fbd373acbe"
+    },
+    {
+      "relative_path": "data/fig5_cardiac_interface/raw/cyclic_resistance_2000cycles_50pct_raw.xlsx",
+      "sha256": "d78587ba22866f52117056f5de59f93303ba1a66f22cb51619400bedd5c2d36c"
+    },
+    {
+      "relative_path": "data/fig5_cardiac_interface/porcine_ecg_display_points.csv",
+      "sha256": "d11dbff6c12b2cc3ef810bb1eb1c4a18ead14d34741850762e2ded5d3b9dd428"
+    },
+    {
+      "relative_path": "data/fig5_cardiac_interface/porcine_heart_rate_display_points.csv",
+      "sha256": "90044e39ed8ba718a9af534aca027f5df992d17f217fe189a12f88ca786656f2"
+    }
+  ]
+}

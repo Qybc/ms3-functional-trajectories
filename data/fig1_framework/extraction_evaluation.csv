@@ -1,0 +1,7 @@
+method,metric,score_percent
+Direct,Record completeness,69.2
+Direct,Effective record quality,70.8
+Single-stage SFT,Record completeness,78.0
+Single-stage SFT,Effective record quality,77.2
+E/T/M,Record completeness,91.7
+E/T/M,Effective record quality,95.6

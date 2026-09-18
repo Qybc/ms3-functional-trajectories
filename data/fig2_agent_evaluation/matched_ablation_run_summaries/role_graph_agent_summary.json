@@ -1,0 +1,16 @@
+{
+  "case_count": 120,
+  "healthy_case_count": 120,
+  "global_search_use_rate": 1.0,
+  "mean_tool_calls": 4.791666666666667,
+  "mean_workspace_papers": 13.7,
+  "mean_citation_validity": 0.9639484126984127,
+  "all_claims_evidence_grounded_rate": 0.6916666666666667,
+  "mean_runtime_seconds": 20.570723183383233,
+  "mean_answer_words": 151.14166666666668,
+  "action_counts": {
+    "search_graph": 219,
+    "trace_concepts": 168,
+    "inspect_evidence": 188
+  }
+}

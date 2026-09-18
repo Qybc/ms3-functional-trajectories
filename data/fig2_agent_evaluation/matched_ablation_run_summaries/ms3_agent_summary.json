@@ -1,0 +1,15 @@
+{
+  "case_count": 120,
+  "healthy_case_count": 120,
+  "global_search_use_rate": 1.0,
+  "mean_tool_calls": 3.8833333333333333,
+  "mean_workspace_papers": 11.808333333333334,
+  "mean_citation_validity": 0.9989583333333333,
+  "all_claims_evidence_grounded_rate": 0.9,
+  "total_forbidden_mechanism_citations": 1,
+  "action_counts": {
+    "search_ms3": 181,
+    "trace_paths": 123,
+    "inspect_evidence": 162
+  }
+}

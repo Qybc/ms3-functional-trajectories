@@ -1,0 +1,40 @@
+{
+  "protocol_name": "MS3-Agent bounded evidence reasoning",
+  "version": "submission-v1",
+  "workspace_initial_state": "empty",
+  "database_access": "read-only",
+  "max_tool_calls": 6,
+  "tools": [
+    {
+      "name": "search_ms3",
+      "purpose": "Search stored Material-Sensor-Signal-System paths across the frozen corpus and expose linked evidence identifiers.",
+      "maximum_results": 8
+    },
+    {
+      "name": "trace_paths",
+      "purpose": "Return complete stored paths and linked article-evidence previews from the corpus or visible workspace papers.",
+      "maximum_results": 6,
+      "workspace_constraint": "Requested paper identifiers must already be visible in the workspace."
+    },
+    {
+      "name": "inspect_evidence",
+      "purpose": "Open exact article-evidence records with provenance and supported elements or relations.",
+      "maximum_identifiers": 12,
+      "visibility_constraint": "Unseen evidence identifiers are blocked."
+    }
+  ],
+  "final_answer_bounds": {
+    "maximum_words": 300,
+    "maximum_claims": 7,
+    "maximum_unique_evidence_citations": 10,
+    "maximum_quantitative_facts": 10
+  },
+  "citation_rule": "Every paper-specific claim must cite an opened paper_id:E# article-evidence record; mechanism identifiers route retrieval but are not final evidence.",
+  "insufficient_evidence_rule": "Use INSUFFICIENT_EVIDENCE when the opened database records do not support a requested claim.",
+  "post_run_audit": {
+    "checks": "Whether final paper-specific citations refer to article evidence opened during the run.",
+    "does_not_check": "Semantic entailment or overall answer correctness.",
+    "revises_answer": false
+  },
+  "executable_source": "code/agent/ms3_agent.py"
+}

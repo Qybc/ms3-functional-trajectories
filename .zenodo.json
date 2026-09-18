@@ -1,0 +1,36 @@
+{
+  "title": "MS3 data and code for evidence-linked functional trajectories",
+  "upload_type": "dataset",
+  "description": "Data, code and reproducibility materials accompanying the manuscript 'Evidence-linked functional trajectories for literature-driven scientific innovation'. The archive contains copyright-permitted normalized trajectory records, benchmark and historical-backtesting results, experimental source data, a record schema, a local demonstration and validation scripts. Publisher full text and access-controlled literature are not redistributed.",
+  "creators": [
+    {"name": "Chen, Qiuhui"},
+    {"name": "Tang, Shuaimin"},
+    {"name": "Lu, Jiafan"},
+    {"name": "Ding, Ding"},
+    {"name": "Dai, Tao"},
+    {"name": "Du, Xinyue"},
+    {"name": "Luo, Zilu"},
+    {"name": "Ji, Chenrui"},
+    {"name": "Yuan, Yuan"},
+    {"name": "Zhong, Weimin"}
+  ],
+  "access_right": "open",
+  "license": "cc-by-4.0",
+  "keywords": [
+    "scientific literature",
+    "functional trajectories",
+    "materials informatics",
+    "flexible sensors",
+    "historical backtesting",
+    "evidence-grounded reasoning"
+  ],
+  "related_identifiers": [
+    {
+      "identifier": "https://github.com/Qybc/ms3-functional-trajectories",
+      "relation": "isSupplementTo",
+      "scheme": "url"
+    }
+  ],
+  "version": "1.0.0",
+  "publication_date": "2026-09-18"
+}

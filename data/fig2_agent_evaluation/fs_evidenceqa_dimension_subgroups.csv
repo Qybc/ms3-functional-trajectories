@@ -1,0 +1,49 @@
+task_type,method,metric,mean_0_4,normalized_percent,n_items
+single_paper,MS3 Agent,scientific_correctness_0_4,3.683333333333333,92.08333333333333,60
+single_paper,MS3 Agent,source_groundedness_0_4,3.683333333333333,92.08333333333333,60
+single_paper,MS3 Agent,evidence_completeness_0_4,3.6666666666666665,91.66666666666666,60
+single_paper,MS3 Agent,boundary_control_0_4,3.6666666666666665,91.66666666666666,60
+single_paper,DeepSeek V4 Pro,scientific_correctness_0_4,3.1,77.5,60
+single_paper,DeepSeek V4 Pro,source_groundedness_0_4,3.3333333333333335,83.33333333333334,60
+single_paper,DeepSeek V4 Pro,evidence_completeness_0_4,2.933333333333333,73.33333333333333,60
+single_paper,DeepSeek V4 Pro,boundary_control_0_4,3.2333333333333334,80.83333333333333,60
+single_paper,Kimi K3,scientific_correctness_0_4,3.4,85.0,60
+single_paper,Kimi K3,source_groundedness_0_4,3.65,91.25,60
+single_paper,Kimi K3,evidence_completeness_0_4,3.4,85.0,60
+single_paper,Kimi K3,boundary_control_0_4,3.566666666666667,89.16666666666667,60
+single_paper,GLM-5.2,scientific_correctness_0_4,3.2666666666666666,81.66666666666667,60
+single_paper,GLM-5.2,source_groundedness_0_4,3.566666666666667,89.16666666666667,60
+single_paper,GLM-5.2,evidence_completeness_0_4,3.216666666666667,80.41666666666667,60
+single_paper,GLM-5.2,boundary_control_0_4,3.45,86.25,60
+single_paper,PaperQA2,scientific_correctness_0_4,3.05,76.25,60
+single_paper,PaperQA2,source_groundedness_0_4,3.0,75.0,60
+single_paper,PaperQA2,evidence_completeness_0_4,3.0833333333333335,77.08333333333334,60
+single_paper,PaperQA2,boundary_control_0_4,3.0166666666666666,75.41666666666667,60
+single_paper,OpenScholar,scientific_correctness_0_4,2.5,62.5,60
+single_paper,OpenScholar,source_groundedness_0_4,2.4833333333333334,62.083333333333336,60
+single_paper,OpenScholar,evidence_completeness_0_4,2.3333333333333335,58.333333333333336,60
+single_paper,OpenScholar,boundary_control_0_4,2.283333333333333,57.08333333333333,60
+cross_paper,MS3 Agent,scientific_correctness_0_4,2.966666666666667,74.16666666666667,60
+cross_paper,MS3 Agent,source_groundedness_0_4,2.9166666666666665,72.91666666666666,60
+cross_paper,MS3 Agent,evidence_completeness_0_4,2.95,73.75,60
+cross_paper,MS3 Agent,boundary_control_0_4,2.9,72.5,60
+cross_paper,DeepSeek V4 Pro,scientific_correctness_0_4,2.15,53.75,60
+cross_paper,DeepSeek V4 Pro,source_groundedness_0_4,2.25,56.25,60
+cross_paper,DeepSeek V4 Pro,evidence_completeness_0_4,2.05,51.24999999999999,60
+cross_paper,DeepSeek V4 Pro,boundary_control_0_4,2.2,55.00000000000001,60
+cross_paper,Kimi K3,scientific_correctness_0_4,2.6,65.0,60
+cross_paper,Kimi K3,source_groundedness_0_4,2.8,70.0,60
+cross_paper,Kimi K3,evidence_completeness_0_4,2.6,65.0,60
+cross_paper,Kimi K3,boundary_control_0_4,2.7,67.5,60
+cross_paper,GLM-5.2,scientific_correctness_0_4,2.35,58.75,60
+cross_paper,GLM-5.2,source_groundedness_0_4,2.466666666666667,61.66666666666667,60
+cross_paper,GLM-5.2,evidence_completeness_0_4,2.316666666666667,57.91666666666667,60
+cross_paper,GLM-5.2,boundary_control_0_4,2.4166666666666665,60.416666666666664,60
+cross_paper,PaperQA2,scientific_correctness_0_4,2.4166666666666665,60.416666666666664,60
+cross_paper,PaperQA2,source_groundedness_0_4,2.3666666666666667,59.166666666666664,60
+cross_paper,PaperQA2,evidence_completeness_0_4,2.4,60.0,60
+cross_paper,PaperQA2,boundary_control_0_4,2.3833333333333333,59.583333333333336,60
+cross_paper,OpenScholar,scientific_correctness_0_4,2.033333333333333,50.83333333333333,60
+cross_paper,OpenScholar,source_groundedness_0_4,2.05,51.24999999999999,60
+cross_paper,OpenScholar,evidence_completeness_0_4,2.0,50.0,60
+cross_paper,OpenScholar,boundary_control_0_4,1.9833333333333334,49.583333333333336,60

@@ -1,0 +1,721 @@
+case_id,task_type,audit_packet_adequate,method,scientific_correctness_0_4,source_groundedness_0_4,evidence_completeness_0_4,boundary_control_0_4,composite_0_4,normalized_percent,unsupported_claim_count
+nv3_cross_01_01,cross_paper,1,MS3 Agent,1,1,1,1,1.0,25.0,6
+nv3_cross_01_01,cross_paper,1,DeepSeek V4 Pro,2,2,2,2,2.0,50.0,3
+nv3_cross_01_01,cross_paper,1,Kimi K3,0,0,0,0,0.0,0.0,8
+nv3_cross_01_01,cross_paper,1,GLM-5.2,0,0,0,0,0.0,0.0,10
+nv3_cross_01_01,cross_paper,1,PaperQA2,1,1,1,1,1.0,25.0,5
+nv3_cross_01_01,cross_paper,1,OpenScholar,2,2,2,2,2.0,50.0,4
+nv3_cross_01_02,cross_paper,1,MS3 Agent,4,4,4,4,4.0,100.0,0
+nv3_cross_01_02,cross_paper,1,DeepSeek V4 Pro,3,3,3,3,3.0,75.0,2
+nv3_cross_01_02,cross_paper,1,Kimi K3,4,4,4,4,4.0,100.0,0
+nv3_cross_01_02,cross_paper,1,GLM-5.2,3,3,3,3,3.0,75.0,2
+nv3_cross_01_02,cross_paper,1,PaperQA2,2,1,2,2,1.75,43.75,5
+nv3_cross_01_02,cross_paper,1,OpenScholar,2,2,2,2,2.0,50.0,4
+nv3_cross_01_03,cross_paper,1,MS3 Agent,4,4,4,4,4.0,100.0,0
+nv3_cross_01_03,cross_paper,1,DeepSeek V4 Pro,1,4,2,4,2.75,68.75,3
+nv3_cross_01_03,cross_paper,1,Kimi K3,3,4,3,4,3.5,87.5,1
+nv3_cross_01_03,cross_paper,1,GLM-5.2,2,3,3,3,2.75,68.75,2
+nv3_cross_01_03,cross_paper,1,PaperQA2,1,1,1,1,1.0,25.0,6
+nv3_cross_01_03,cross_paper,1,OpenScholar,2,1,2,1,1.5,37.5,4
+nv3_cross_01_04,cross_paper,1,MS3 Agent,3,3,3,2,2.75,68.75,2
+nv3_cross_01_04,cross_paper,1,DeepSeek V4 Pro,3,3,3,3,3.0,75.0,1
+nv3_cross_01_04,cross_paper,1,Kimi K3,4,4,4,4,4.0,100.0,0
+nv3_cross_01_04,cross_paper,1,GLM-5.2,3,3,3,3,3.0,75.0,1
+nv3_cross_01_04,cross_paper,1,PaperQA2,4,4,4,4,4.0,100.0,0
+nv3_cross_01_04,cross_paper,1,OpenScholar,2,1,2,2,1.75,43.75,3
+nv3_cross_01_05,cross_paper,1,MS3 Agent,3,3,3,3,3.0,75.0,1
+nv3_cross_01_05,cross_paper,1,DeepSeek V4 Pro,3,3,3,3,3.0,75.0,1
+nv3_cross_01_05,cross_paper,1,Kimi K3,4,4,4,4,4.0,100.0,0
+nv3_cross_01_05,cross_paper,1,GLM-5.2,3,2,2,2,2.25,56.25,3
+nv3_cross_01_05,cross_paper,1,PaperQA2,2,1,1,1,1.25,31.25,6
+nv3_cross_01_05,cross_paper,1,OpenScholar,2,2,2,2,2.0,50.0,3
+nv3_cross_01_06,cross_paper,1,MS3 Agent,1,1,1,1,1.0,25.0,6
+nv3_cross_01_06,cross_paper,1,DeepSeek V4 Pro,2,3,2,3,2.5,62.5,1
+nv3_cross_01_06,cross_paper,1,Kimi K3,3,4,3,4,3.5,87.5,0
+nv3_cross_01_06,cross_paper,1,GLM-5.2,1,1,1,1,1.0,25.0,6
+nv3_cross_01_06,cross_paper,1,PaperQA2,3,4,4,4,3.75,93.75,0
+nv3_cross_01_06,cross_paper,1,OpenScholar,2,3,2,2,2.25,56.25,3
+nv3_cross_01_07,cross_paper,1,MS3 Agent,2,2,2,2,2.0,50.0,3
+nv3_cross_01_07,cross_paper,1,DeepSeek V4 Pro,2,2,2,2,2.0,50.0,3
+nv3_cross_01_07,cross_paper,1,Kimi K3,1,1,1,1,1.0,25.0,3
+nv3_cross_01_07,cross_paper,1,GLM-5.2,2,2,2,2,2.0,50.0,2
+nv3_cross_01_07,cross_paper,1,PaperQA2,0,0,0,0,0.0,0.0,10
+nv3_cross_01_07,cross_paper,1,OpenScholar,3,3,3,3,3.0,75.0,1
+nv3_cross_01_08,cross_paper,1,MS3 Agent,3,3,3,3,3.0,75.0,1
+nv3_cross_01_08,cross_paper,1,DeepSeek V4 Pro,2,2,2,2,2.0,50.0,2
+nv3_cross_01_08,cross_paper,1,Kimi K3,1,1,1,1,1.0,25.0,4
+nv3_cross_01_08,cross_paper,1,GLM-5.2,3,3,3,3,3.0,75.0,1
+nv3_cross_01_08,cross_paper,1,PaperQA2,4,4,4,4,4.0,100.0,0
+nv3_cross_01_08,cross_paper,1,OpenScholar,2,1,2,2,1.75,43.75,3
+nv3_cross_01_09,cross_paper,1,MS3 Agent,2,2,2,2,2.0,50.0,5
+nv3_cross_01_09,cross_paper,1,DeepSeek V4 Pro,4,4,4,4,4.0,100.0,0
+nv3_cross_01_09,cross_paper,1,Kimi K3,4,4,4,4,4.0,100.0,0
+nv3_cross_01_09,cross_paper,1,GLM-5.2,4,4,4,4,4.0,100.0,0
+nv3_cross_01_09,cross_paper,1,PaperQA2,3,3,3,3,3.0,75.0,2
+nv3_cross_01_09,cross_paper,1,OpenScholar,2,2,2,2,2.0,50.0,6
+nv3_cross_01_10,cross_paper,1,MS3 Agent,4,4,4,4,4.0,100.0,0
+nv3_cross_01_10,cross_paper,1,DeepSeek V4 Pro,3,3,3,3,3.0,75.0,1
+nv3_cross_01_10,cross_paper,1,Kimi K3,4,4,4,4,4.0,100.0,0
+nv3_cross_01_10,cross_paper,1,GLM-5.2,2,2,2,2,2.0,50.0,2
+nv3_cross_01_10,cross_paper,1,PaperQA2,3,3,3,3,3.0,75.0,2
+nv3_cross_01_10,cross_paper,1,OpenScholar,3,3,3,3,3.0,75.0,1
+nv3_cross_02_01,cross_paper,1,MS3 Agent,4,4,4,4,4.0,100.0,0
+nv3_cross_02_01,cross_paper,1,DeepSeek V4 Pro,3,3,3,3,3.0,75.0,1
+nv3_cross_02_01,cross_paper,1,Kimi K3,2,2,2,2,2.0,50.0,3
+nv3_cross_02_01,cross_paper,1,GLM-5.2,4,4,4,4,4.0,100.0,0
+nv3_cross_02_01,cross_paper,1,PaperQA2,4,4,4,4,4.0,100.0,0
+nv3_cross_02_01,cross_paper,1,OpenScholar,3,3,2,2,2.5,62.5,2
+nv3_cross_02_02,cross_paper,1,MS3 Agent,1,1,1,1,1.0,25.0,7
+nv3_cross_02_02,cross_paper,1,DeepSeek V4 Pro,2,2,2,2,2.0,50.0,4
+nv3_cross_02_02,cross_paper,1,Kimi K3,3,3,3,3,3.0,75.0,2
+nv3_cross_02_02,cross_paper,1,GLM-5.2,2,2,2,2,2.0,50.0,3
+nv3_cross_02_02,cross_paper,1,PaperQA2,2,1,2,2,1.75,43.75,5
+nv3_cross_02_02,cross_paper,1,OpenScholar,1,1,1,1,1.0,25.0,6
+nv3_cross_02_03,cross_paper,1,MS3 Agent,4,3,4,3,3.5,87.5,1
+nv3_cross_02_03,cross_paper,1,DeepSeek V4 Pro,2,2,2,2,2.0,50.0,3
+nv3_cross_02_03,cross_paper,1,Kimi K3,2,4,2,4,3.0,75.0,2
+nv3_cross_02_03,cross_paper,1,GLM-5.2,2,4,2,4,3.0,75.0,2
+nv3_cross_02_03,cross_paper,1,PaperQA2,0,0,0,0,0.0,0.0,0
+nv3_cross_02_03,cross_paper,1,OpenScholar,3,3,3,3,3.0,75.0,1
+nv3_cross_02_04,cross_paper,1,MS3 Agent,2,2,2,2,2.0,50.0,4
+nv3_cross_02_04,cross_paper,1,DeepSeek V4 Pro,2,2,2,2,2.0,50.0,2
+nv3_cross_02_04,cross_paper,1,Kimi K3,1,1,1,1,1.0,25.0,6
+nv3_cross_02_04,cross_paper,1,GLM-5.2,3,3,3,3,3.0,75.0,1
+nv3_cross_02_04,cross_paper,1,PaperQA2,0,0,0,0,0.0,0.0,0
+nv3_cross_02_04,cross_paper,1,OpenScholar,2,2,2,2,2.0,50.0,3
+nv3_cross_02_05,cross_paper,1,MS3 Agent,4,4,4,4,4.0,100.0,0
+nv3_cross_02_05,cross_paper,1,DeepSeek V4 Pro,3,2,2,2,2.25,56.25,3
+nv3_cross_02_05,cross_paper,1,Kimi K3,3,3,3,3,3.0,75.0,2
+nv3_cross_02_05,cross_paper,1,GLM-5.2,4,4,4,4,4.0,100.0,0
+nv3_cross_02_05,cross_paper,1,PaperQA2,3,3,3,3,3.0,75.0,2
+nv3_cross_02_05,cross_paper,1,OpenScholar,3,2,2,2,2.25,56.25,3
+nv3_cross_02_06,cross_paper,1,MS3 Agent,4,4,4,4,4.0,100.0,0
+nv3_cross_02_06,cross_paper,1,DeepSeek V4 Pro,2,3,2,2,2.25,56.25,2
+nv3_cross_02_06,cross_paper,1,Kimi K3,3,4,3,3,3.25,81.25,1
+nv3_cross_02_06,cross_paper,1,GLM-5.2,1,2,1,1,1.25,31.25,4
+nv3_cross_02_06,cross_paper,1,PaperQA2,4,4,4,4,4.0,100.0,0
+nv3_cross_02_06,cross_paper,1,OpenScholar,2,3,2,2,2.25,56.25,2
+nv3_cross_02_07,cross_paper,1,MS3 Agent,4,4,4,4,4.0,100.0,0
+nv3_cross_02_07,cross_paper,1,DeepSeek V4 Pro,2,2,2,2,2.0,50.0,3
+nv3_cross_02_07,cross_paper,1,Kimi K3,4,4,4,4,4.0,100.0,0
+nv3_cross_02_07,cross_paper,1,GLM-5.2,2,2,2,2,2.0,50.0,3
+nv3_cross_02_07,cross_paper,1,PaperQA2,3,3,3,3,3.0,75.0,2
+nv3_cross_02_07,cross_paper,1,OpenScholar,3,3,3,3,3.0,75.0,2
+nv3_cross_02_08,cross_paper,1,MS3 Agent,3,3,3,3,3.0,75.0,2
+nv3_cross_02_08,cross_paper,1,DeepSeek V4 Pro,2,3,2,2,2.25,56.25,2
+nv3_cross_02_08,cross_paper,1,Kimi K3,3,4,3,3,3.25,81.25,1
+nv3_cross_02_08,cross_paper,1,GLM-5.2,3,4,3,3,3.25,81.25,1
+nv3_cross_02_08,cross_paper,1,PaperQA2,4,4,4,4,4.0,100.0,0
+nv3_cross_02_08,cross_paper,1,OpenScholar,3,3,3,3,3.0,75.0,2
+nv3_cross_02_09,cross_paper,1,MS3 Agent,0,0,0,0,0.0,0.0,7
+nv3_cross_02_09,cross_paper,1,DeepSeek V4 Pro,0,0,0,0,0.0,0.0,7
+nv3_cross_02_09,cross_paper,1,Kimi K3,0,0,0,0,0.0,0.0,8
+nv3_cross_02_09,cross_paper,1,GLM-5.2,0,0,0,0,0.0,0.0,7
+nv3_cross_02_09,cross_paper,1,PaperQA2,4,4,4,4,4.0,100.0,0
+nv3_cross_02_09,cross_paper,1,OpenScholar,2,2,2,2,2.0,50.0,3
+nv3_cross_02_10,cross_paper,1,MS3 Agent,4,4,4,4,4.0,100.0,0
+nv3_cross_02_10,cross_paper,1,DeepSeek V4 Pro,3,3,2,3,2.75,68.75,1
+nv3_cross_02_10,cross_paper,1,Kimi K3,3,3,3,3,3.0,75.0,2
+nv3_cross_02_10,cross_paper,1,GLM-5.2,4,4,4,4,4.0,100.0,0
+nv3_cross_02_10,cross_paper,1,PaperQA2,3,3,3,2,2.75,68.75,2
+nv3_cross_02_10,cross_paper,1,OpenScholar,2,2,2,2,2.0,50.0,3
+nv3_cross_03_01,cross_paper,1,MS3 Agent,3,2,3,2,2.5,62.5,3
+nv3_cross_03_01,cross_paper,1,DeepSeek V4 Pro,4,4,3,4,3.75,93.75,0
+nv3_cross_03_01,cross_paper,1,Kimi K3,3,4,4,4,3.75,93.75,0
+nv3_cross_03_01,cross_paper,1,GLM-5.2,4,4,3,4,3.75,93.75,0
+nv3_cross_03_01,cross_paper,1,PaperQA2,3,2,3,2,2.5,62.5,3
+nv3_cross_03_01,cross_paper,1,OpenScholar,2,3,2,2,2.25,56.25,2
+nv3_cross_03_02,cross_paper,1,MS3 Agent,4,4,4,4,4.0,100.0,0
+nv3_cross_03_02,cross_paper,1,DeepSeek V4 Pro,3,3,3,3,3.0,75.0,1
+nv3_cross_03_02,cross_paper,1,Kimi K3,2,2,2,2,2.0,50.0,3
+nv3_cross_03_02,cross_paper,1,GLM-5.2,3,3,3,3,3.0,75.0,1
+nv3_cross_03_02,cross_paper,1,PaperQA2,1,1,1,1,1.0,25.0,4
+nv3_cross_03_02,cross_paper,1,OpenScholar,3,3,3,3,3.0,75.0,1
+nv3_cross_03_03,cross_paper,1,MS3 Agent,3,3,3,3,3.0,75.0,1
+nv3_cross_03_03,cross_paper,1,DeepSeek V4 Pro,2,2,2,2,2.0,50.0,2
+nv3_cross_03_03,cross_paper,1,Kimi K3,2,2,2,2,2.0,50.0,2
+nv3_cross_03_03,cross_paper,1,GLM-5.2,1,1,1,1,1.0,25.0,3
+nv3_cross_03_03,cross_paper,1,PaperQA2,4,4,4,4,4.0,100.0,0
+nv3_cross_03_03,cross_paper,1,OpenScholar,2,2,2,2,2.0,50.0,3
+nv3_cross_03_04,cross_paper,1,MS3 Agent,1,1,1,1,1.0,25.0,5
+nv3_cross_03_04,cross_paper,1,DeepSeek V4 Pro,3,3,3,3,3.0,75.0,1
+nv3_cross_03_04,cross_paper,1,Kimi K3,4,4,4,4,4.0,100.0,0
+nv3_cross_03_04,cross_paper,1,GLM-5.2,2,2,2,3,2.25,56.25,3
+nv3_cross_03_04,cross_paper,1,PaperQA2,3,3,3,2,2.75,68.75,2
+nv3_cross_03_04,cross_paper,1,OpenScholar,2,2,2,2,2.0,50.0,3
+nv3_cross_03_05,cross_paper,1,MS3 Agent,4,4,4,4,4.0,100.0,0
+nv3_cross_03_05,cross_paper,1,DeepSeek V4 Pro,2,1,2,2,1.75,43.75,3
+nv3_cross_03_05,cross_paper,1,Kimi K3,3,4,3,4,3.5,87.5,1
+nv3_cross_03_05,cross_paper,1,GLM-5.2,2,3,2,3,2.5,62.5,2
+nv3_cross_03_05,cross_paper,1,PaperQA2,1,4,1,4,2.5,62.5,1
+nv3_cross_03_05,cross_paper,1,OpenScholar,2,2,2,2,2.0,50.0,3
+nv3_cross_03_06,cross_paper,1,MS3 Agent,4,4,4,4,4.0,100.0,0
+nv3_cross_03_06,cross_paper,1,DeepSeek V4 Pro,3,3,3,3,3.0,75.0,1
+nv3_cross_03_06,cross_paper,1,Kimi K3,3,3,3,3,3.0,75.0,1
+nv3_cross_03_06,cross_paper,1,GLM-5.2,3,3,3,3,3.0,75.0,1
+nv3_cross_03_06,cross_paper,1,PaperQA2,4,4,4,4,4.0,100.0,0
+nv3_cross_03_06,cross_paper,1,OpenScholar,3,3,3,3,3.0,75.0,2
+nv3_cross_03_07,cross_paper,1,MS3 Agent,1,1,1,1,1.0,25.0,4
+nv3_cross_03_07,cross_paper,1,DeepSeek V4 Pro,3,3,3,3,3.0,75.0,1
+nv3_cross_03_07,cross_paper,1,Kimi K3,4,4,4,4,4.0,100.0,0
+nv3_cross_03_07,cross_paper,1,GLM-5.2,3,3,3,3,3.0,75.0,2
+nv3_cross_03_07,cross_paper,1,PaperQA2,4,4,4,4,4.0,100.0,0
+nv3_cross_03_07,cross_paper,1,OpenScholar,2,2,2,2,2.0,50.0,3
+nv3_cross_03_08,cross_paper,1,MS3 Agent,4,4,4,4,4.0,100.0,0
+nv3_cross_03_08,cross_paper,1,DeepSeek V4 Pro,2,3,2,2,2.25,56.25,2
+nv3_cross_03_08,cross_paper,1,Kimi K3,2,3,2,2,2.25,56.25,2
+nv3_cross_03_08,cross_paper,1,GLM-5.2,2,3,2,2,2.25,56.25,2
+nv3_cross_03_08,cross_paper,1,PaperQA2,1,1,1,1,1.0,25.0,5
+nv3_cross_03_08,cross_paper,1,OpenScholar,2,3,2,2,2.25,56.25,2
+nv3_cross_03_09,cross_paper,1,MS3 Agent,2,2,2,2,2.0,50.0,2
+nv3_cross_03_09,cross_paper,1,DeepSeek V4 Pro,4,4,4,4,4.0,100.0,0
+nv3_cross_03_09,cross_paper,1,Kimi K3,2,2,2,2,2.0,50.0,2
+nv3_cross_03_09,cross_paper,1,GLM-5.2,3,3,3,3,3.0,75.0,1
+nv3_cross_03_09,cross_paper,1,PaperQA2,1,1,1,1,1.0,25.0,6
+nv3_cross_03_09,cross_paper,1,OpenScholar,2,2,2,2,2.0,50.0,2
+nv3_cross_03_10,cross_paper,1,MS3 Agent,3,3,3,3,3.0,75.0,1
+nv3_cross_03_10,cross_paper,1,DeepSeek V4 Pro,3,3,3,3,3.0,75.0,1
+nv3_cross_03_10,cross_paper,1,Kimi K3,3,3,3,3,3.0,75.0,2
+nv3_cross_03_10,cross_paper,1,GLM-5.2,1,1,1,1,1.0,25.0,4
+nv3_cross_03_10,cross_paper,1,PaperQA2,2,2,2,2,2.0,50.0,5
+nv3_cross_03_10,cross_paper,1,OpenScholar,1,1,1,1,1.0,25.0,5
+nv3_cross_04_01,cross_paper,1,MS3 Agent,2,2,2,2,2.0,50.0,4
+nv3_cross_04_01,cross_paper,1,DeepSeek V4 Pro,1,1,1,1,1.0,25.0,6
+nv3_cross_04_01,cross_paper,1,Kimi K3,2,2,2,2,2.0,50.0,3
+nv3_cross_04_01,cross_paper,1,GLM-5.2,4,4,4,4,4.0,100.0,0
+nv3_cross_04_01,cross_paper,1,PaperQA2,3,3,3,3,3.0,75.0,2
+nv3_cross_04_01,cross_paper,1,OpenScholar,3,3,3,3,3.0,75.0,2
+nv3_cross_04_02,cross_paper,1,MS3 Agent,1,1,1,1,1.0,25.0,6
+nv3_cross_04_02,cross_paper,1,DeepSeek V4 Pro,3,3,3,3,3.0,75.0,1
+nv3_cross_04_02,cross_paper,1,Kimi K3,4,4,4,4,4.0,100.0,0
+nv3_cross_04_02,cross_paper,1,GLM-5.2,3,3,3,3,3.0,75.0,1
+nv3_cross_04_02,cross_paper,1,PaperQA2,2,2,2,2,2.0,50.0,4
+nv3_cross_04_02,cross_paper,1,OpenScholar,1,1,1,1,1.0,25.0,5
+nv3_cross_04_03,cross_paper,1,MS3 Agent,0,0,0,0,0.0,0.0,10
+nv3_cross_04_03,cross_paper,1,DeepSeek V4 Pro,1,1,1,1,1.0,25.0,5
+nv3_cross_04_03,cross_paper,1,Kimi K3,1,1,1,1,1.0,25.0,6
+nv3_cross_04_03,cross_paper,1,GLM-5.2,2,2,2,2,2.0,50.0,4
+nv3_cross_04_03,cross_paper,1,PaperQA2,4,4,4,4,4.0,100.0,0
+nv3_cross_04_03,cross_paper,1,OpenScholar,2,2,2,2,2.0,50.0,4
+nv3_cross_04_04,cross_paper,1,MS3 Agent,4,4,4,4,4.0,100.0,0
+nv3_cross_04_04,cross_paper,1,DeepSeek V4 Pro,3,3,2,3,2.75,68.75,1
+nv3_cross_04_04,cross_paper,1,Kimi K3,4,4,4,4,4.0,100.0,0
+nv3_cross_04_04,cross_paper,1,GLM-5.2,3,3,3,3,3.0,75.0,1
+nv3_cross_04_04,cross_paper,1,PaperQA2,3,3,3,3,3.0,75.0,2
+nv3_cross_04_04,cross_paper,1,OpenScholar,2,2,2,2,2.0,50.0,3
+nv3_cross_04_05,cross_paper,1,MS3 Agent,4,4,4,4,4.0,100.0,0
+nv3_cross_04_05,cross_paper,1,DeepSeek V4 Pro,2,2,2,2,2.0,50.0,3
+nv3_cross_04_05,cross_paper,1,Kimi K3,4,4,4,4,4.0,100.0,0
+nv3_cross_04_05,cross_paper,1,GLM-5.2,3,3,3,3,3.0,75.0,1
+nv3_cross_04_05,cross_paper,1,PaperQA2,3,3,3,3,3.0,75.0,1
+nv3_cross_04_05,cross_paper,1,OpenScholar,3,3,3,3,3.0,75.0,2
+nv3_cross_04_06,cross_paper,1,MS3 Agent,4,4,4,4,4.0,100.0,0
+nv3_cross_04_06,cross_paper,1,DeepSeek V4 Pro,3,4,3,3,3.25,81.25,1
+nv3_cross_04_06,cross_paper,1,Kimi K3,3,4,3,3,3.25,81.25,1
+nv3_cross_04_06,cross_paper,1,GLM-5.2,4,4,4,4,4.0,100.0,0
+nv3_cross_04_06,cross_paper,1,PaperQA2,4,4,4,4,4.0,100.0,0
+nv3_cross_04_06,cross_paper,1,OpenScholar,2,3,2,2,2.25,56.25,3
+nv3_cross_04_07,cross_paper,1,MS3 Agent,4,4,4,4,4.0,100.0,0
+nv3_cross_04_07,cross_paper,1,DeepSeek V4 Pro,2,2,2,2,2.0,50.0,2
+nv3_cross_04_07,cross_paper,1,Kimi K3,2,2,2,2,2.0,50.0,3
+nv3_cross_04_07,cross_paper,1,GLM-5.2,2,2,2,2,2.0,50.0,2
+nv3_cross_04_07,cross_paper,1,PaperQA2,4,4,4,4,4.0,100.0,0
+nv3_cross_04_07,cross_paper,1,OpenScholar,3,3,3,3,3.0,75.0,1
+nv3_cross_04_08,cross_paper,1,MS3 Agent,2,2,2,2,2.0,50.0,2
+nv3_cross_04_08,cross_paper,1,DeepSeek V4 Pro,4,4,4,4,4.0,100.0,0
+nv3_cross_04_08,cross_paper,1,Kimi K3,3,3,3,3,3.0,75.0,1
+nv3_cross_04_08,cross_paper,1,GLM-5.2,3,3,3,3,3.0,75.0,1
+nv3_cross_04_08,cross_paper,1,PaperQA2,2,2,2,2,2.0,50.0,3
+nv3_cross_04_08,cross_paper,1,OpenScholar,2,2,2,2,2.0,50.0,3
+nv3_cross_04_09,cross_paper,1,MS3 Agent,4,4,4,4,4.0,100.0,0
+nv3_cross_04_09,cross_paper,1,DeepSeek V4 Pro,1,1,1,1,1.0,25.0,4
+nv3_cross_04_09,cross_paper,1,Kimi K3,2,2,2,2,2.0,50.0,3
+nv3_cross_04_09,cross_paper,1,GLM-5.2,2,2,2,2,2.0,50.0,3
+nv3_cross_04_09,cross_paper,1,PaperQA2,4,4,4,4,4.0,100.0,0
+nv3_cross_04_09,cross_paper,1,OpenScholar,2,2,2,2,2.0,50.0,3
+nv3_cross_04_10,cross_paper,1,MS3 Agent,4,4,4,4,4.0,100.0,0
+nv3_cross_04_10,cross_paper,1,DeepSeek V4 Pro,3,3,2,3,2.75,68.75,2
+nv3_cross_04_10,cross_paper,1,Kimi K3,3,3,2,3,2.75,68.75,2
+nv3_cross_04_10,cross_paper,1,GLM-5.2,4,4,4,4,4.0,100.0,0
+nv3_cross_04_10,cross_paper,1,PaperQA2,3,3,3,3,3.0,75.0,2
+nv3_cross_04_10,cross_paper,1,OpenScholar,2,2,2,2,2.0,50.0,4
+nv3_cross_05_01,cross_paper,1,MS3 Agent,4,4,4,4,4.0,100.0,0
+nv3_cross_05_01,cross_paper,1,DeepSeek V4 Pro,2,2,2,2,2.0,50.0,2
+nv3_cross_05_01,cross_paper,1,Kimi K3,2,2,2,2,2.0,50.0,3
+nv3_cross_05_01,cross_paper,1,GLM-5.2,1,1,1,1,1.0,25.0,5
+nv3_cross_05_01,cross_paper,1,PaperQA2,1,1,1,1,1.0,25.0,6
+nv3_cross_05_01,cross_paper,1,OpenScholar,2,2,2,2,2.0,50.0,4
+nv3_cross_05_02,cross_paper,1,MS3 Agent,3,3,3,3,3.0,75.0,2
+nv3_cross_05_02,cross_paper,1,DeepSeek V4 Pro,3,3,3,3,3.0,75.0,1
+nv3_cross_05_02,cross_paper,1,Kimi K3,4,4,4,4,4.0,100.0,0
+nv3_cross_05_02,cross_paper,1,GLM-5.2,3,3,3,3,3.0,75.0,1
+nv3_cross_05_02,cross_paper,1,PaperQA2,3,3,3,3,3.0,75.0,2
+nv3_cross_05_02,cross_paper,1,OpenScholar,2,2,2,2,2.0,50.0,4
+nv3_cross_05_03,cross_paper,1,MS3 Agent,4,4,4,4,4.0,100.0,0
+nv3_cross_05_03,cross_paper,1,DeepSeek V4 Pro,2,3,2,2,2.25,56.25,3
+nv3_cross_05_03,cross_paper,1,Kimi K3,3,4,3,3,3.25,81.25,2
+nv3_cross_05_03,cross_paper,1,GLM-5.2,3,4,3,3,3.25,81.25,2
+nv3_cross_05_03,cross_paper,1,PaperQA2,2,2,2,2,2.0,50.0,5
+nv3_cross_05_03,cross_paper,1,OpenScholar,1,1,1,1,1.0,25.0,6
+nv3_cross_05_04,cross_paper,1,MS3 Agent,2,2,2,2,2.0,50.0,4
+nv3_cross_05_04,cross_paper,1,DeepSeek V4 Pro,3,3,3,3,3.0,75.0,1
+nv3_cross_05_04,cross_paper,1,Kimi K3,2,2,2,2,2.0,50.0,4
+nv3_cross_05_04,cross_paper,1,GLM-5.2,4,4,4,4,4.0,100.0,0
+nv3_cross_05_04,cross_paper,1,PaperQA2,2,2,2,2,2.0,50.0,4
+nv3_cross_05_04,cross_paper,1,OpenScholar,3,3,3,3,3.0,75.0,2
+nv3_cross_05_05,cross_paper,1,MS3 Agent,4,4,4,4,4.0,100.0,0
+nv3_cross_05_05,cross_paper,1,DeepSeek V4 Pro,1,1,1,1,1.0,25.0,5
+nv3_cross_05_05,cross_paper,1,Kimi K3,2,3,2,2,2.25,56.25,3
+nv3_cross_05_05,cross_paper,1,GLM-5.2,2,3,2,2,2.25,56.25,3
+nv3_cross_05_05,cross_paper,1,PaperQA2,1,1,1,1,1.0,25.0,6
+nv3_cross_05_05,cross_paper,1,OpenScholar,1,1,1,1,1.0,25.0,6
+nv3_cross_05_06,cross_paper,1,MS3 Agent,2,2,2,2,2.0,50.0,3
+nv3_cross_05_06,cross_paper,1,DeepSeek V4 Pro,3,3,3,3,3.0,75.0,1
+nv3_cross_05_06,cross_paper,1,Kimi K3,4,4,4,4,4.0,100.0,0
+nv3_cross_05_06,cross_paper,1,GLM-5.2,2,1,2,2,1.75,43.75,4
+nv3_cross_05_06,cross_paper,1,PaperQA2,3,3,3,3,3.0,75.0,2
+nv3_cross_05_06,cross_paper,1,OpenScholar,1,1,1,1,1.0,25.0,5
+nv3_cross_05_07,cross_paper,1,MS3 Agent,4,4,4,4,4.0,100.0,0
+nv3_cross_05_07,cross_paper,1,DeepSeek V4 Pro,0,0,0,0,0.0,0.0,8
+nv3_cross_05_07,cross_paper,1,Kimi K3,0,0,0,0,0.0,0.0,12
+nv3_cross_05_07,cross_paper,1,GLM-5.2,0,0,0,0,0.0,0.0,10
+nv3_cross_05_07,cross_paper,1,PaperQA2,0,0,0,0,0.0,0.0,5
+nv3_cross_05_07,cross_paper,1,OpenScholar,2,2,2,2,2.0,50.0,4
+nv3_cross_05_08,cross_paper,1,MS3 Agent,4,4,4,4,4.0,100.0,0
+nv3_cross_05_08,cross_paper,1,DeepSeek V4 Pro,0,0,0,0,0.0,0.0,7
+nv3_cross_05_08,cross_paper,1,Kimi K3,0,0,0,0,0.0,0.0,8
+nv3_cross_05_08,cross_paper,1,GLM-5.2,0,0,0,0,0.0,0.0,7
+nv3_cross_05_08,cross_paper,1,PaperQA2,0,0,0,0,0.0,0.0,7
+nv3_cross_05_08,cross_paper,1,OpenScholar,2,2,2,2,2.0,50.0,4
+nv3_cross_05_09,cross_paper,1,MS3 Agent,4,4,4,4,4.0,100.0,1
+nv3_cross_05_09,cross_paper,1,DeepSeek V4 Pro,1,1,1,1,1.0,25.0,6
+nv3_cross_05_09,cross_paper,1,Kimi K3,2,2,2,2,2.0,50.0,5
+nv3_cross_05_09,cross_paper,1,GLM-5.2,3,3,3,3,3.0,75.0,3
+nv3_cross_05_09,cross_paper,1,PaperQA2,3,3,3,3,3.0,75.0,4
+nv3_cross_05_09,cross_paper,1,OpenScholar,2,2,2,2,2.0,50.0,5
+nv3_cross_05_10,cross_paper,1,MS3 Agent,4,4,4,4,4.0,100.0,0
+nv3_cross_05_10,cross_paper,1,DeepSeek V4 Pro,0,0,0,0,0.0,0.0,10
+nv3_cross_05_10,cross_paper,1,Kimi K3,1,1,1,1,1.0,25.0,6
+nv3_cross_05_10,cross_paper,1,GLM-5.2,1,1,1,1,1.0,25.0,4
+nv3_cross_05_10,cross_paper,1,PaperQA2,2,2,2,2,2.0,50.0,5
+nv3_cross_05_10,cross_paper,1,OpenScholar,1,1,1,1,1.0,25.0,5
+nv3_cross_06_01,cross_paper,1,MS3 Agent,4,4,4,4,4.0,100.0,1
+nv3_cross_06_01,cross_paper,1,DeepSeek V4 Pro,3,3,3,3,3.0,75.0,2
+nv3_cross_06_01,cross_paper,1,Kimi K3,4,4,4,4,4.0,100.0,0
+nv3_cross_06_01,cross_paper,1,GLM-5.2,2,2,2,2,2.0,50.0,3
+nv3_cross_06_01,cross_paper,1,PaperQA2,4,4,4,4,4.0,100.0,1
+nv3_cross_06_01,cross_paper,1,OpenScholar,2,2,2,2,2.0,50.0,4
+nv3_cross_06_02,cross_paper,1,MS3 Agent,3,3,3,3,3.0,75.0,3
+nv3_cross_06_02,cross_paper,1,DeepSeek V4 Pro,2,2,2,2,2.0,50.0,4
+nv3_cross_06_02,cross_paper,1,Kimi K3,3,3,3,3,3.0,75.0,2
+nv3_cross_06_02,cross_paper,1,GLM-5.2,1,1,1,1,1.0,25.0,6
+nv3_cross_06_02,cross_paper,1,PaperQA2,4,4,4,4,4.0,100.0,0
+nv3_cross_06_02,cross_paper,1,OpenScholar,2,2,2,2,2.0,50.0,4
+nv3_cross_06_03,cross_paper,1,MS3 Agent,3,3,3,3,3.0,75.0,1
+nv3_cross_06_03,cross_paper,1,DeepSeek V4 Pro,3,3,2,3,2.75,68.75,2
+nv3_cross_06_03,cross_paper,1,Kimi K3,4,4,4,4,4.0,100.0,0
+nv3_cross_06_03,cross_paper,1,GLM-5.2,3,3,3,3,3.0,75.0,2
+nv3_cross_06_03,cross_paper,1,PaperQA2,2,1,2,1,1.5,37.5,4
+nv3_cross_06_03,cross_paper,1,OpenScholar,2,2,2,2,2.0,50.0,3
+nv3_cross_06_04,cross_paper,1,MS3 Agent,1,1,1,1,1.0,25.0,5
+nv3_cross_06_04,cross_paper,1,DeepSeek V4 Pro,2,2,2,2,2.0,50.0,3
+nv3_cross_06_04,cross_paper,1,Kimi K3,4,4,4,4,4.0,100.0,0
+nv3_cross_06_04,cross_paper,1,GLM-5.2,1,1,1,1,1.0,25.0,4
+nv3_cross_06_04,cross_paper,1,PaperQA2,1,1,1,1,1.0,25.0,5
+nv3_cross_06_04,cross_paper,1,OpenScholar,2,2,2,2,2.0,50.0,3
+nv3_cross_06_05,cross_paper,1,MS3 Agent,4,4,4,4,4.0,100.0,0
+nv3_cross_06_05,cross_paper,1,DeepSeek V4 Pro,2,1,2,2,1.75,43.75,3
+nv3_cross_06_05,cross_paper,1,Kimi K3,3,3,3,3,3.0,75.0,1
+nv3_cross_06_05,cross_paper,1,GLM-5.2,3,3,3,3,3.0,75.0,1
+nv3_cross_06_05,cross_paper,1,PaperQA2,1,0,1,1,0.75,18.75,6
+nv3_cross_06_05,cross_paper,1,OpenScholar,1,1,1,1,1.0,25.0,5
+nv3_cross_06_06,cross_paper,1,MS3 Agent,2,1,1,1,1.25,31.25,6
+nv3_cross_06_06,cross_paper,1,DeepSeek V4 Pro,3,3,2,3,2.75,68.75,2
+nv3_cross_06_06,cross_paper,1,Kimi K3,4,4,4,4,4.0,100.0,0
+nv3_cross_06_06,cross_paper,1,GLM-5.2,3,3,2,3,2.75,68.75,2
+nv3_cross_06_06,cross_paper,1,PaperQA2,2,1,1,1,1.25,31.25,6
+nv3_cross_06_06,cross_paper,1,OpenScholar,2,2,2,2,2.0,50.0,3
+nv3_cross_06_07,cross_paper,1,MS3 Agent,4,4,4,4,4.0,100.0,0
+nv3_cross_06_07,cross_paper,1,DeepSeek V4 Pro,0,0,0,0,0.0,0.0,5
+nv3_cross_06_07,cross_paper,1,Kimi K3,0,0,0,0,0.0,0.0,6
+nv3_cross_06_07,cross_paper,1,GLM-5.2,2,2,2,2,2.0,50.0,2
+nv3_cross_06_07,cross_paper,1,PaperQA2,1,1,1,1,1.0,25.0,5
+nv3_cross_06_07,cross_paper,1,OpenScholar,1,1,1,1,1.0,25.0,2
+nv3_cross_06_08,cross_paper,1,MS3 Agent,1,1,1,1,1.0,25.0,5
+nv3_cross_06_08,cross_paper,1,DeepSeek V4 Pro,1,1,1,1,1.0,25.0,4
+nv3_cross_06_08,cross_paper,1,Kimi K3,3,3,3,3,3.0,75.0,1
+nv3_cross_06_08,cross_paper,1,GLM-5.2,2,2,2,2,2.0,50.0,3
+nv3_cross_06_08,cross_paper,1,PaperQA2,4,4,4,4,4.0,100.0,0
+nv3_cross_06_08,cross_paper,1,OpenScholar,2,2,2,2,2.0,50.0,3
+nv3_cross_06_09,cross_paper,1,MS3 Agent,2,2,2,2,2.0,50.0,3
+nv3_cross_06_09,cross_paper,1,DeepSeek V4 Pro,0,0,0,0,0.0,0.0,5
+nv3_cross_06_09,cross_paper,1,Kimi K3,1,1,1,1,1.0,25.0,4
+nv3_cross_06_09,cross_paper,1,GLM-5.2,1,1,1,1,1.0,25.0,4
+nv3_cross_06_09,cross_paper,1,PaperQA2,2,2,2,2,2.0,50.0,3
+nv3_cross_06_09,cross_paper,1,OpenScholar,1,1,1,1,1.0,25.0,4
+nv3_cross_06_10,cross_paper,1,MS3 Agent,4,4,4,4,4.0,100.0,0
+nv3_cross_06_10,cross_paper,1,DeepSeek V4 Pro,0,0,0,0,0.0,0.0,4
+nv3_cross_06_10,cross_paper,1,Kimi K3,2,2,2,2,2.0,50.0,2
+nv3_cross_06_10,cross_paper,1,GLM-5.2,2,2,2,2,2.0,50.0,2
+nv3_cross_06_10,cross_paper,1,PaperQA2,1,1,1,1,1.0,25.0,4
+nv3_cross_06_10,cross_paper,1,OpenScholar,1,1,1,1,1.0,25.0,3
+nv3_single_01_01,single_paper,1,MS3 Agent,4,4,4,4,4.0,100.0,0
+nv3_single_01_01,single_paper,1,DeepSeek V4 Pro,3,4,3,3,3.25,81.25,1
+nv3_single_01_01,single_paper,1,Kimi K3,4,4,4,4,4.0,100.0,0
+nv3_single_01_01,single_paper,1,GLM-5.2,4,4,4,4,4.0,100.0,0
+nv3_single_01_01,single_paper,1,PaperQA2,3,3,3,3,3.0,75.0,1
+nv3_single_01_01,single_paper,1,OpenScholar,2,3,2,2,2.25,56.25,3
+nv3_single_01_02,single_paper,1,MS3 Agent,4,4,4,4,4.0,100.0,0
+nv3_single_01_02,single_paper,1,DeepSeek V4 Pro,4,4,4,4,4.0,100.0,0
+nv3_single_01_02,single_paper,1,Kimi K3,3,3,3,3,3.0,75.0,2
+nv3_single_01_02,single_paper,1,GLM-5.2,4,4,4,4,4.0,100.0,0
+nv3_single_01_02,single_paper,1,PaperQA2,3,2,3,2,2.5,62.5,3
+nv3_single_01_02,single_paper,1,OpenScholar,3,3,3,3,3.0,75.0,2
+nv3_single_01_03,single_paper,1,MS3 Agent,4,4,4,4,4.0,100.0,0
+nv3_single_01_03,single_paper,1,DeepSeek V4 Pro,4,4,4,4,4.0,100.0,0
+nv3_single_01_03,single_paper,1,Kimi K3,4,4,4,4,4.0,100.0,0
+nv3_single_01_03,single_paper,1,GLM-5.2,4,4,4,4,4.0,100.0,0
+nv3_single_01_03,single_paper,1,PaperQA2,4,4,4,4,4.0,100.0,0
+nv3_single_01_03,single_paper,1,OpenScholar,4,4,4,4,4.0,100.0,0
+nv3_single_01_04,single_paper,1,MS3 Agent,4,4,4,4,4.0,100.0,0
+nv3_single_01_04,single_paper,1,DeepSeek V4 Pro,1,2,1,2,1.5,37.5,4
+nv3_single_01_04,single_paper,1,Kimi K3,3,4,3,4,3.5,87.5,0
+nv3_single_01_04,single_paper,1,GLM-5.2,1,2,1,2,1.5,37.5,4
+nv3_single_01_04,single_paper,1,PaperQA2,3,3,3,3,3.0,75.0,1
+nv3_single_01_04,single_paper,1,OpenScholar,2,2,2,2,2.0,50.0,3
+nv3_single_01_05,single_paper,1,MS3 Agent,4,4,4,4,4.0,100.0,0
+nv3_single_01_05,single_paper,1,DeepSeek V4 Pro,3,3,2,3,2.75,68.75,1
+nv3_single_01_05,single_paper,1,Kimi K3,3,3,2,3,2.75,68.75,2
+nv3_single_01_05,single_paper,1,GLM-5.2,2,2,2,2,2.0,50.0,2
+nv3_single_01_05,single_paper,1,PaperQA2,4,4,4,4,4.0,100.0,0
+nv3_single_01_05,single_paper,1,OpenScholar,3,3,3,2,2.75,68.75,1
+nv3_single_01_06,single_paper,1,MS3 Agent,4,4,4,4,4.0,100.0,0
+nv3_single_01_06,single_paper,1,DeepSeek V4 Pro,1,1,1,1,1.0,25.0,5
+nv3_single_01_06,single_paper,1,Kimi K3,2,2,2,2,2.0,50.0,4
+nv3_single_01_06,single_paper,1,GLM-5.2,1,1,1,1,1.0,25.0,6
+nv3_single_01_06,single_paper,1,PaperQA2,1,1,1,1,1.0,25.0,6
+nv3_single_01_06,single_paper,1,OpenScholar,1,1,1,1,1.0,25.0,5
+nv3_single_01_07,single_paper,1,MS3 Agent,4,4,4,4,4.0,100.0,0
+nv3_single_01_07,single_paper,1,DeepSeek V4 Pro,4,4,3,4,3.75,93.75,0
+nv3_single_01_07,single_paper,1,Kimi K3,4,4,4,4,4.0,100.0,0
+nv3_single_01_07,single_paper,1,GLM-5.2,4,4,4,4,4.0,100.0,0
+nv3_single_01_07,single_paper,1,PaperQA2,3,2,3,3,2.75,68.75,2
+nv3_single_01_07,single_paper,1,OpenScholar,3,3,3,3,3.0,75.0,1
+nv3_single_01_08,single_paper,1,MS3 Agent,4,4,4,4,4.0,100.0,0
+nv3_single_01_08,single_paper,1,DeepSeek V4 Pro,0,0,0,0,0.0,0.0,5
+nv3_single_01_08,single_paper,1,Kimi K3,2,2,2,2,2.0,50.0,2
+nv3_single_01_08,single_paper,1,GLM-5.2,1,1,1,1,1.0,25.0,3
+nv3_single_01_08,single_paper,1,PaperQA2,0,0,0,0,0.0,0.0,5
+nv3_single_01_08,single_paper,1,OpenScholar,1,1,1,1,1.0,25.0,4
+nv3_single_01_09,single_paper,1,MS3 Agent,4,4,4,4,4.0,100.0,0
+nv3_single_01_09,single_paper,1,DeepSeek V4 Pro,4,4,3,4,3.75,93.75,0
+nv3_single_01_09,single_paper,1,Kimi K3,4,4,4,4,4.0,100.0,0
+nv3_single_01_09,single_paper,1,GLM-5.2,4,4,4,4,4.0,100.0,0
+nv3_single_01_09,single_paper,1,PaperQA2,4,4,4,4,4.0,100.0,0
+nv3_single_01_09,single_paper,1,OpenScholar,3,3,3,3,3.0,75.0,1
+nv3_single_01_10,single_paper,1,MS3 Agent,4,4,4,4,4.0,100.0,0
+nv3_single_01_10,single_paper,1,DeepSeek V4 Pro,2,4,2,3,2.75,68.75,2
+nv3_single_01_10,single_paper,1,Kimi K3,2,4,2,3,2.75,68.75,3
+nv3_single_01_10,single_paper,1,GLM-5.2,2,4,2,3,2.75,68.75,2
+nv3_single_01_10,single_paper,1,PaperQA2,3,3,3,3,3.0,75.0,1
+nv3_single_01_10,single_paper,1,OpenScholar,2,2,2,2,2.0,50.0,4
+nv3_single_02_01,single_paper,1,MS3 Agent,4,4,4,3,3.75,93.75,1
+nv3_single_02_01,single_paper,1,DeepSeek V4 Pro,2,2,2,2,2.0,50.0,2
+nv3_single_02_01,single_paper,1,Kimi K3,3,4,3,4,3.5,87.5,0
+nv3_single_02_01,single_paper,1,GLM-5.2,3,3,3,3,3.0,75.0,1
+nv3_single_02_01,single_paper,1,PaperQA2,4,4,4,4,4.0,100.0,0
+nv3_single_02_01,single_paper,1,OpenScholar,2,2,2,2,2.0,50.0,3
+nv3_single_02_02,single_paper,1,MS3 Agent,4,4,4,4,4.0,100.0,0
+nv3_single_02_02,single_paper,1,DeepSeek V4 Pro,4,4,4,4,4.0,100.0,0
+nv3_single_02_02,single_paper,1,Kimi K3,3,3,3,3,3.0,75.0,1
+nv3_single_02_02,single_paper,1,GLM-5.2,4,4,4,4,4.0,100.0,0
+nv3_single_02_02,single_paper,1,PaperQA2,3,3,3,3,3.0,75.0,2
+nv3_single_02_02,single_paper,1,OpenScholar,3,3,3,3,3.0,75.0,2
+nv3_single_02_03,single_paper,1,MS3 Agent,4,4,4,3,3.75,93.75,1
+nv3_single_02_03,single_paper,1,DeepSeek V4 Pro,3,4,2,4,3.25,81.25,1
+nv3_single_02_03,single_paper,1,Kimi K3,3,4,2,4,3.25,81.25,1
+nv3_single_02_03,single_paper,1,GLM-5.2,3,4,3,4,3.5,87.5,0
+nv3_single_02_03,single_paper,1,PaperQA2,3,3,4,4,3.5,87.5,2
+nv3_single_02_03,single_paper,1,OpenScholar,3,3,3,3,3.0,75.0,2
+nv3_single_02_04,single_paper,1,MS3 Agent,3,3,3,3,3.0,75.0,2
+nv3_single_02_04,single_paper,1,DeepSeek V4 Pro,1,2,2,2,1.75,43.75,4
+nv3_single_02_04,single_paper,1,Kimi K3,4,4,4,4,4.0,100.0,0
+nv3_single_02_04,single_paper,1,GLM-5.2,4,4,4,4,4.0,100.0,0
+nv3_single_02_04,single_paper,1,PaperQA2,2,1,2,2,1.75,43.75,6
+nv3_single_02_04,single_paper,1,OpenScholar,2,2,2,2,2.0,50.0,5
+nv3_single_02_05,single_paper,1,MS3 Agent,3,3,3,3,3.0,75.0,1
+nv3_single_02_05,single_paper,1,DeepSeek V4 Pro,4,4,4,4,4.0,100.0,0
+nv3_single_02_05,single_paper,1,Kimi K3,4,4,4,4,4.0,100.0,0
+nv3_single_02_05,single_paper,1,GLM-5.2,3,4,3,4,3.5,87.5,0
+nv3_single_02_05,single_paper,1,PaperQA2,3,3,3,3,3.0,75.0,1
+nv3_single_02_05,single_paper,1,OpenScholar,2,2,2,2,2.0,50.0,3
+nv3_single_02_06,single_paper,1,MS3 Agent,4,4,4,4,4.0,100.0,0
+nv3_single_02_06,single_paper,1,DeepSeek V4 Pro,3,4,2,4,3.25,81.25,1
+nv3_single_02_06,single_paper,1,Kimi K3,4,4,3,4,3.75,93.75,1
+nv3_single_02_06,single_paper,1,GLM-5.2,3,4,2,4,3.25,81.25,1
+nv3_single_02_06,single_paper,1,PaperQA2,3,2,3,3,2.75,68.75,2
+nv3_single_02_06,single_paper,1,OpenScholar,4,3,3,3,3.25,81.25,2
+nv3_single_02_07,single_paper,1,MS3 Agent,4,4,4,4,4.0,100.0,0
+nv3_single_02_07,single_paper,1,DeepSeek V4 Pro,3,3,3,3,3.0,75.0,1
+nv3_single_02_07,single_paper,1,Kimi K3,4,4,4,4,4.0,100.0,0
+nv3_single_02_07,single_paper,1,GLM-5.2,4,4,4,4,4.0,100.0,0
+nv3_single_02_07,single_paper,1,PaperQA2,2,2,2,2,2.0,50.0,4
+nv3_single_02_07,single_paper,1,OpenScholar,3,3,2,2,2.5,62.5,2
+nv3_single_02_08,single_paper,1,MS3 Agent,3,3,3,3,3.0,75.0,2
+nv3_single_02_08,single_paper,1,DeepSeek V4 Pro,4,4,4,4,4.0,100.0,0
+nv3_single_02_08,single_paper,1,Kimi K3,4,4,4,4,4.0,100.0,0
+nv3_single_02_08,single_paper,1,GLM-5.2,4,4,4,4,4.0,100.0,0
+nv3_single_02_08,single_paper,1,PaperQA2,3,3,3,3,3.0,75.0,2
+nv3_single_02_08,single_paper,1,OpenScholar,2,2,2,2,2.0,50.0,4
+nv3_single_02_09,single_paper,1,MS3 Agent,3,3,3,3,3.0,75.0,1
+nv3_single_02_09,single_paper,1,DeepSeek V4 Pro,3,4,3,3,3.25,81.25,1
+nv3_single_02_09,single_paper,1,Kimi K3,2,4,2,3,2.75,68.75,2
+nv3_single_02_09,single_paper,1,GLM-5.2,3,4,2,3,3.0,75.0,1
+nv3_single_02_09,single_paper,1,PaperQA2,4,4,4,4,4.0,100.0,0
+nv3_single_02_09,single_paper,1,OpenScholar,1,1,1,1,1.0,25.0,4
+nv3_single_02_10,single_paper,1,MS3 Agent,4,4,4,4,4.0,100.0,0
+nv3_single_02_10,single_paper,1,DeepSeek V4 Pro,2,2,2,2,2.0,50.0,4
+nv3_single_02_10,single_paper,1,Kimi K3,3,3,3,3,3.0,75.0,2
+nv3_single_02_10,single_paper,1,GLM-5.2,4,4,4,4,4.0,100.0,0
+nv3_single_02_10,single_paper,1,PaperQA2,4,4,4,4,4.0,100.0,0
+nv3_single_02_10,single_paper,1,OpenScholar,3,2,2,2,2.25,56.25,3
+nv3_single_03_01,single_paper,1,MS3 Agent,3,3,3,3,3.0,75.0,2
+nv3_single_03_01,single_paper,1,DeepSeek V4 Pro,2,2,2,2,2.0,50.0,3
+nv3_single_03_01,single_paper,1,Kimi K3,4,4,4,4,4.0,100.0,0
+nv3_single_03_01,single_paper,1,GLM-5.2,3,3,3,3,3.0,75.0,1
+nv3_single_03_01,single_paper,1,PaperQA2,4,4,4,4,4.0,100.0,0
+nv3_single_03_01,single_paper,1,OpenScholar,1,1,1,1,1.0,25.0,6
+nv3_single_03_02,single_paper,1,MS3 Agent,4,4,4,4,4.0,100.0,0
+nv3_single_03_02,single_paper,1,DeepSeek V4 Pro,4,4,4,4,4.0,100.0,0
+nv3_single_03_02,single_paper,1,Kimi K3,4,4,4,4,4.0,100.0,0
+nv3_single_03_02,single_paper,1,GLM-5.2,3,3,3,3,3.0,75.0,1
+nv3_single_03_02,single_paper,1,PaperQA2,3,3,3,3,3.0,75.0,1
+nv3_single_03_02,single_paper,1,OpenScholar,2,2,2,2,2.0,50.0,3
+nv3_single_03_03,single_paper,1,MS3 Agent,4,4,4,4,4.0,100.0,0
+nv3_single_03_03,single_paper,1,DeepSeek V4 Pro,3,4,3,3,3.25,81.25,1
+nv3_single_03_03,single_paper,1,Kimi K3,4,4,4,4,4.0,100.0,0
+nv3_single_03_03,single_paper,1,GLM-5.2,3,4,3,3,3.25,81.25,1
+nv3_single_03_03,single_paper,1,PaperQA2,3,4,3,3,3.25,81.25,1
+nv3_single_03_03,single_paper,1,OpenScholar,2,3,2,2,2.25,56.25,3
+nv3_single_03_04,single_paper,1,MS3 Agent,4,4,4,4,4.0,100.0,0
+nv3_single_03_04,single_paper,1,DeepSeek V4 Pro,4,4,4,4,4.0,100.0,0
+nv3_single_03_04,single_paper,1,Kimi K3,4,4,4,4,4.0,100.0,0
+nv3_single_03_04,single_paper,1,GLM-5.2,4,4,4,4,4.0,100.0,0
+nv3_single_03_04,single_paper,1,PaperQA2,4,4,4,4,4.0,100.0,0
+nv3_single_03_04,single_paper,1,OpenScholar,3,3,3,3,3.0,75.0,1
+nv3_single_03_05,single_paper,1,MS3 Agent,4,4,4,4,4.0,100.0,0
+nv3_single_03_05,single_paper,1,DeepSeek V4 Pro,1,4,1,4,2.5,62.5,3
+nv3_single_03_05,single_paper,1,Kimi K3,1,3,2,3,2.25,56.25,3
+nv3_single_03_05,single_paper,1,GLM-5.2,1,4,1,4,2.5,62.5,3
+nv3_single_03_05,single_paper,1,PaperQA2,3,3,3,2,2.75,68.75,2
+nv3_single_03_05,single_paper,1,OpenScholar,2,2,2,2,2.0,50.0,4
+nv3_single_03_06,single_paper,1,MS3 Agent,3,3,3,3,3.0,75.0,1
+nv3_single_03_06,single_paper,1,DeepSeek V4 Pro,4,4,4,4,4.0,100.0,0
+nv3_single_03_06,single_paper,1,Kimi K3,4,4,4,4,4.0,100.0,0
+nv3_single_03_06,single_paper,1,GLM-5.2,4,4,4,4,4.0,100.0,0
+nv3_single_03_06,single_paper,1,PaperQA2,3,3,3,3,3.0,75.0,2
+nv3_single_03_06,single_paper,1,OpenScholar,3,3,2,2,2.5,62.5,2
+nv3_single_03_07,single_paper,1,MS3 Agent,3,2,3,3,2.75,68.75,2
+nv3_single_03_07,single_paper,1,DeepSeek V4 Pro,3,2,2,2,2.25,56.25,3
+nv3_single_03_07,single_paper,1,Kimi K3,3,3,3,3,3.0,75.0,1
+nv3_single_03_07,single_paper,1,GLM-5.2,4,4,4,4,4.0,100.0,0
+nv3_single_03_07,single_paper,1,PaperQA2,2,1,2,2,1.75,43.75,4
+nv3_single_03_07,single_paper,1,OpenScholar,3,3,3,3,3.0,75.0,1
+nv3_single_03_08,single_paper,1,MS3 Agent,4,4,4,4,4.0,100.0,0
+nv3_single_03_08,single_paper,1,DeepSeek V4 Pro,4,4,4,4,4.0,100.0,0
+nv3_single_03_08,single_paper,1,Kimi K3,4,4,4,4,4.0,100.0,0
+nv3_single_03_08,single_paper,1,GLM-5.2,4,4,4,4,4.0,100.0,0
+nv3_single_03_08,single_paper,1,PaperQA2,3,3,3,3,3.0,75.0,2
+nv3_single_03_08,single_paper,1,OpenScholar,3,3,3,3,3.0,75.0,2
+nv3_single_03_09,single_paper,1,MS3 Agent,4,4,4,4,4.0,100.0,0
+nv3_single_03_09,single_paper,1,DeepSeek V4 Pro,4,4,4,4,4.0,100.0,0
+nv3_single_03_09,single_paper,1,Kimi K3,3,3,3,3,3.0,75.0,2
+nv3_single_03_09,single_paper,1,GLM-5.2,4,4,4,4,4.0,100.0,0
+nv3_single_03_09,single_paper,1,PaperQA2,3,3,3,3,3.0,75.0,1
+nv3_single_03_09,single_paper,1,OpenScholar,3,3,3,3,3.0,75.0,1
+nv3_single_03_10,single_paper,1,MS3 Agent,2,2,2,2,2.0,50.0,4
+nv3_single_03_10,single_paper,1,DeepSeek V4 Pro,3,3,3,3,3.0,75.0,1
+nv3_single_03_10,single_paper,1,Kimi K3,4,4,4,4,4.0,100.0,0
+nv3_single_03_10,single_paper,1,GLM-5.2,4,4,4,4,4.0,100.0,0
+nv3_single_03_10,single_paper,1,PaperQA2,3,3,3,3,3.0,75.0,1
+nv3_single_03_10,single_paper,1,OpenScholar,3,3,3,2,2.75,68.75,2
+nv3_single_04_01,single_paper,1,MS3 Agent,4,4,4,4,4.0,100.0,0
+nv3_single_04_01,single_paper,1,DeepSeek V4 Pro,3,3,3,3,3.0,75.0,1
+nv3_single_04_01,single_paper,1,Kimi K3,2,2,2,2,2.0,50.0,3
+nv3_single_04_01,single_paper,1,GLM-5.2,3,3,3,3,3.0,75.0,1
+nv3_single_04_01,single_paper,1,PaperQA2,3,3,3,3,3.0,75.0,1
+nv3_single_04_01,single_paper,1,OpenScholar,4,4,4,4,4.0,100.0,0
+nv3_single_04_02,single_paper,1,MS3 Agent,3,3,3,3,3.0,75.0,1
+nv3_single_04_02,single_paper,1,DeepSeek V4 Pro,3,3,3,3,3.0,75.0,0
+nv3_single_04_02,single_paper,1,Kimi K3,4,4,4,4,4.0,100.0,0
+nv3_single_04_02,single_paper,1,GLM-5.2,3,3,3,3,3.0,75.0,1
+nv3_single_04_02,single_paper,1,PaperQA2,2,2,2,2,2.0,50.0,3
+nv3_single_04_02,single_paper,1,OpenScholar,2,2,2,2,2.0,50.0,3
+nv3_single_04_03,single_paper,1,MS3 Agent,1,4,1,4,2.5,62.5,5
+nv3_single_04_03,single_paper,1,DeepSeek V4 Pro,3,4,3,4,3.5,87.5,1
+nv3_single_04_03,single_paper,1,Kimi K3,3,4,3,4,3.5,87.5,1
+nv3_single_04_03,single_paper,1,GLM-5.2,3,4,3,4,3.5,87.5,1
+nv3_single_04_03,single_paper,1,PaperQA2,1,4,2,4,2.75,68.75,5
+nv3_single_04_03,single_paper,1,OpenScholar,4,4,4,4,4.0,100.0,0
+nv3_single_04_04,single_paper,1,MS3 Agent,4,4,4,4,4.0,100.0,0
+nv3_single_04_04,single_paper,1,DeepSeek V4 Pro,2,2,2,1,1.75,43.75,3
+nv3_single_04_04,single_paper,1,Kimi K3,2,2,2,1,1.75,43.75,3
+nv3_single_04_04,single_paper,1,GLM-5.2,2,2,2,1,1.75,43.75,3
+nv3_single_04_04,single_paper,1,PaperQA2,4,4,4,4,4.0,100.0,0
+nv3_single_04_04,single_paper,1,OpenScholar,2,2,2,1,1.75,43.75,3
+nv3_single_04_05,single_paper,1,MS3 Agent,3,3,3,3,3.0,75.0,1
+nv3_single_04_05,single_paper,1,DeepSeek V4 Pro,4,4,4,4,4.0,100.0,0
+nv3_single_04_05,single_paper,1,Kimi K3,4,4,4,4,4.0,100.0,0
+nv3_single_04_05,single_paper,1,GLM-5.2,4,4,4,4,4.0,100.0,0
+nv3_single_04_05,single_paper,1,PaperQA2,3,3,3,3,3.0,75.0,2
+nv3_single_04_05,single_paper,1,OpenScholar,2,2,2,2,2.0,50.0,3
+nv3_single_04_06,single_paper,1,MS3 Agent,4,4,4,4,4.0,100.0,0
+nv3_single_04_06,single_paper,1,DeepSeek V4 Pro,4,4,3,4,3.75,93.75,0
+nv3_single_04_06,single_paper,1,Kimi K3,4,4,4,4,4.0,100.0,0
+nv3_single_04_06,single_paper,1,GLM-5.2,4,4,4,4,4.0,100.0,0
+nv3_single_04_06,single_paper,1,PaperQA2,4,4,4,4,4.0,100.0,0
+nv3_single_04_06,single_paper,1,OpenScholar,3,4,2,3,3.0,75.0,1
+nv3_single_04_07,single_paper,1,MS3 Agent,4,4,4,4,4.0,100.0,0
+nv3_single_04_07,single_paper,1,DeepSeek V4 Pro,3,4,3,4,3.5,87.5,1
+nv3_single_04_07,single_paper,1,Kimi K3,3,4,3,4,3.5,87.5,1
+nv3_single_04_07,single_paper,1,GLM-5.2,3,4,3,4,3.5,87.5,2
+nv3_single_04_07,single_paper,1,PaperQA2,4,4,4,4,4.0,100.0,0
+nv3_single_04_07,single_paper,1,OpenScholar,3,3,3,3,3.0,75.0,2
+nv3_single_04_08,single_paper,1,MS3 Agent,4,4,4,4,4.0,100.0,0
+nv3_single_04_08,single_paper,1,DeepSeek V4 Pro,4,4,4,4,4.0,100.0,0
+nv3_single_04_08,single_paper,1,Kimi K3,4,4,4,4,4.0,100.0,0
+nv3_single_04_08,single_paper,1,GLM-5.2,4,4,4,4,4.0,100.0,0
+nv3_single_04_08,single_paper,1,PaperQA2,4,3,4,4,3.75,93.75,1
+nv3_single_04_08,single_paper,1,OpenScholar,3,3,3,3,3.0,75.0,2
+nv3_single_04_09,single_paper,1,MS3 Agent,4,4,4,4,4.0,100.0,0
+nv3_single_04_09,single_paper,1,DeepSeek V4 Pro,4,4,4,4,4.0,100.0,0
+nv3_single_04_09,single_paper,1,Kimi K3,4,4,4,4,4.0,100.0,0
+nv3_single_04_09,single_paper,1,GLM-5.2,4,4,4,4,4.0,100.0,0
+nv3_single_04_09,single_paper,1,PaperQA2,4,4,4,4,4.0,100.0,0
+nv3_single_04_09,single_paper,1,OpenScholar,2,2,2,2,2.0,50.0,4
+nv3_single_04_10,single_paper,1,MS3 Agent,4,4,4,4,4.0,100.0,0
+nv3_single_04_10,single_paper,1,DeepSeek V4 Pro,4,4,4,4,4.0,100.0,0
+nv3_single_04_10,single_paper,1,Kimi K3,4,4,4,4,4.0,100.0,0
+nv3_single_04_10,single_paper,1,GLM-5.2,4,4,4,4,4.0,100.0,0
+nv3_single_04_10,single_paper,1,PaperQA2,2,2,2,2,2.0,50.0,4
+nv3_single_04_10,single_paper,1,OpenScholar,3,3,3,3,3.0,75.0,2
+nv3_single_05_01,single_paper,1,MS3 Agent,3,2,3,3,2.75,68.75,3
+nv3_single_05_01,single_paper,1,DeepSeek V4 Pro,4,4,4,4,4.0,100.0,0
+nv3_single_05_01,single_paper,1,Kimi K3,3,3,4,4,3.5,87.5,2
+nv3_single_05_01,single_paper,1,GLM-5.2,4,4,4,4,4.0,100.0,0
+nv3_single_05_01,single_paper,1,PaperQA2,3,3,3,3,3.0,75.0,2
+nv3_single_05_01,single_paper,1,OpenScholar,2,2,2,2,2.0,50.0,4
+nv3_single_05_02,single_paper,1,MS3 Agent,4,4,4,4,4.0,100.0,0
+nv3_single_05_02,single_paper,1,DeepSeek V4 Pro,2,4,2,4,3.0,75.0,3
+nv3_single_05_02,single_paper,1,Kimi K3,2,4,2,4,3.0,75.0,3
+nv3_single_05_02,single_paper,1,GLM-5.2,2,4,2,4,3.0,75.0,2
+nv3_single_05_02,single_paper,1,PaperQA2,1,1,1,1,1.0,25.0,6
+nv3_single_05_02,single_paper,1,OpenScholar,1,1,1,1,1.0,25.0,6
+nv3_single_05_03,single_paper,1,MS3 Agent,4,4,4,4,4.0,100.0,0
+nv3_single_05_03,single_paper,1,DeepSeek V4 Pro,4,4,4,4,4.0,100.0,0
+nv3_single_05_03,single_paper,1,Kimi K3,4,4,4,3,3.75,93.75,0
+nv3_single_05_03,single_paper,1,GLM-5.2,4,4,4,4,4.0,100.0,0
+nv3_single_05_03,single_paper,1,PaperQA2,3,3,3,2,2.75,68.75,2
+nv3_single_05_03,single_paper,1,OpenScholar,3,3,3,2,2.75,68.75,2
+nv3_single_05_04,single_paper,1,MS3 Agent,3,3,3,3,3.0,75.0,2
+nv3_single_05_04,single_paper,1,DeepSeek V4 Pro,4,4,4,4,4.0,100.0,0
+nv3_single_05_04,single_paper,1,Kimi K3,4,4,4,3,3.75,93.75,1
+nv3_single_05_04,single_paper,1,GLM-5.2,4,4,4,4,4.0,100.0,0
+nv3_single_05_04,single_paper,1,PaperQA2,4,4,4,4,4.0,100.0,0
+nv3_single_05_04,single_paper,1,OpenScholar,3,3,2,2,2.5,62.5,3
+nv3_single_05_05,single_paper,1,MS3 Agent,4,4,3,3,3.5,87.5,1
+nv3_single_05_05,single_paper,1,DeepSeek V4 Pro,3,3,2,2,2.5,62.5,2
+nv3_single_05_05,single_paper,1,Kimi K3,4,4,4,4,4.0,100.0,0
+nv3_single_05_05,single_paper,1,GLM-5.2,4,4,4,4,4.0,100.0,0
+nv3_single_05_05,single_paper,1,PaperQA2,3,3,3,3,3.0,75.0,2
+nv3_single_05_05,single_paper,1,OpenScholar,3,3,2,2,2.5,62.5,2
+nv3_single_05_06,single_paper,1,MS3 Agent,4,4,4,4,4.0,100.0,0
+nv3_single_05_06,single_paper,1,DeepSeek V4 Pro,3,4,3,3,3.25,81.25,1
+nv3_single_05_06,single_paper,1,Kimi K3,4,4,4,4,4.0,100.0,0
+nv3_single_05_06,single_paper,1,GLM-5.2,3,4,3,3,3.25,81.25,1
+nv3_single_05_06,single_paper,1,PaperQA2,3,3,3,2,2.75,68.75,2
+nv3_single_05_06,single_paper,1,OpenScholar,2,2,2,2,2.0,50.0,3
+nv3_single_05_07,single_paper,1,MS3 Agent,4,4,4,4,4.0,100.0,0
+nv3_single_05_07,single_paper,1,DeepSeek V4 Pro,3,3,3,3,3.0,75.0,1
+nv3_single_05_07,single_paper,1,Kimi K3,4,4,4,4,4.0,100.0,0
+nv3_single_05_07,single_paper,1,GLM-5.2,3,3,3,3,3.0,75.0,1
+nv3_single_05_07,single_paper,1,PaperQA2,3,3,3,3,3.0,75.0,1
+nv3_single_05_07,single_paper,1,OpenScholar,2,2,2,2,2.0,50.0,3
+nv3_single_05_08,single_paper,1,MS3 Agent,4,4,4,4,4.0,100.0,0
+nv3_single_05_08,single_paper,1,DeepSeek V4 Pro,2,2,2,3,2.25,56.25,4
+nv3_single_05_08,single_paper,1,Kimi K3,3,4,3,4,3.5,87.5,1
+nv3_single_05_08,single_paper,1,GLM-5.2,2,4,2,4,3.0,75.0,3
+nv3_single_05_08,single_paper,1,PaperQA2,3,3,3,2,2.75,68.75,2
+nv3_single_05_08,single_paper,1,OpenScholar,3,3,3,3,3.0,75.0,2
+nv3_single_05_09,single_paper,1,MS3 Agent,4,4,4,4,4.0,100.0,0
+nv3_single_05_09,single_paper,1,DeepSeek V4 Pro,4,4,3,4,3.75,93.75,0
+nv3_single_05_09,single_paper,1,Kimi K3,4,4,4,4,4.0,100.0,0
+nv3_single_05_09,single_paper,1,GLM-5.2,4,4,4,4,4.0,100.0,0
+nv3_single_05_09,single_paper,1,PaperQA2,3,3,3,3,3.0,75.0,1
+nv3_single_05_09,single_paper,1,OpenScholar,3,3,2,3,2.75,68.75,2
+nv3_single_05_10,single_paper,1,MS3 Agent,4,4,4,4,4.0,100.0,0
+nv3_single_05_10,single_paper,1,DeepSeek V4 Pro,3,3,2,3,2.75,68.75,1
+nv3_single_05_10,single_paper,1,Kimi K3,4,4,4,4,4.0,100.0,0
+nv3_single_05_10,single_paper,1,GLM-5.2,3,3,2,3,2.75,68.75,1
+nv3_single_05_10,single_paper,1,PaperQA2,0,0,0,0,0.0,0.0,4
+nv3_single_05_10,single_paper,1,OpenScholar,1,1,1,1,1.0,25.0,5
+nv3_single_06_01,single_paper,1,MS3 Agent,4,4,4,4,4.0,100.0,0
+nv3_single_06_01,single_paper,1,DeepSeek V4 Pro,3,3,3,3,3.0,75.0,1
+nv3_single_06_01,single_paper,1,Kimi K3,2,3,3,2,2.5,62.5,3
+nv3_single_06_01,single_paper,1,GLM-5.2,3,3,3,3,3.0,75.0,2
+nv3_single_06_01,single_paper,1,PaperQA2,4,4,4,4,4.0,100.0,0
+nv3_single_06_01,single_paper,1,OpenScholar,3,3,3,3,3.0,75.0,2
+nv3_single_06_02,single_paper,1,MS3 Agent,4,4,4,4,4.0,100.0,0
+nv3_single_06_02,single_paper,1,DeepSeek V4 Pro,4,4,4,4,4.0,100.0,0
+nv3_single_06_02,single_paper,1,Kimi K3,4,4,4,4,4.0,100.0,0
+nv3_single_06_02,single_paper,1,GLM-5.2,4,4,4,4,4.0,100.0,0
+nv3_single_06_02,single_paper,1,PaperQA2,4,4,4,4,4.0,100.0,0
+nv3_single_06_02,single_paper,1,OpenScholar,3,3,3,3,3.0,75.0,1
+nv3_single_06_03,single_paper,1,MS3 Agent,4,4,4,4,4.0,100.0,0
+nv3_single_06_03,single_paper,1,DeepSeek V4 Pro,3,3,3,3,3.0,75.0,1
+nv3_single_06_03,single_paper,1,Kimi K3,4,4,4,4,4.0,100.0,0
+nv3_single_06_03,single_paper,1,GLM-5.2,3,3,3,3,3.0,75.0,1
+nv3_single_06_03,single_paper,1,PaperQA2,3,3,3,3,3.0,75.0,2
+nv3_single_06_03,single_paper,1,OpenScholar,2,2,2,2,2.0,50.0,3
+nv3_single_06_04,single_paper,1,MS3 Agent,4,4,4,4,4.0,100.0,0
+nv3_single_06_04,single_paper,1,DeepSeek V4 Pro,3,3,3,2,2.75,68.75,1
+nv3_single_06_04,single_paper,1,Kimi K3,3,3,3,3,3.0,75.0,1
+nv3_single_06_04,single_paper,1,GLM-5.2,3,3,3,2,2.75,68.75,1
+nv3_single_06_04,single_paper,1,PaperQA2,4,4,4,4,4.0,100.0,0
+nv3_single_06_04,single_paper,1,OpenScholar,3,3,2,2,2.5,62.5,1
+nv3_single_06_05,single_paper,1,MS3 Agent,2,1,2,1,1.5,37.5,4
+nv3_single_06_05,single_paper,1,DeepSeek V4 Pro,3,3,3,3,3.0,75.0,1
+nv3_single_06_05,single_paper,1,Kimi K3,4,4,4,4,4.0,100.0,0
+nv3_single_06_05,single_paper,1,GLM-5.2,4,4,4,4,4.0,100.0,0
+nv3_single_06_05,single_paper,1,PaperQA2,3,3,3,3,3.0,75.0,2
+nv3_single_06_05,single_paper,1,OpenScholar,2,2,2,2,2.0,50.0,3
+nv3_single_06_06,single_paper,1,MS3 Agent,4,4,4,4,4.0,100.0,0
+nv3_single_06_06,single_paper,1,DeepSeek V4 Pro,4,4,4,4,4.0,100.0,0
+nv3_single_06_06,single_paper,1,Kimi K3,4,4,4,4,4.0,100.0,0
+nv3_single_06_06,single_paper,1,GLM-5.2,4,4,4,3,3.75,93.75,1
+nv3_single_06_06,single_paper,1,PaperQA2,4,3,4,3,3.5,87.5,2
+nv3_single_06_06,single_paper,1,OpenScholar,3,2,3,2,2.5,62.5,3
+nv3_single_06_07,single_paper,1,MS3 Agent,3,3,3,3,3.0,75.0,1
+nv3_single_06_07,single_paper,1,DeepSeek V4 Pro,2,1,2,2,1.75,43.75,2
+nv3_single_06_07,single_paper,1,Kimi K3,3,3,3,3,3.0,75.0,1
+nv3_single_06_07,single_paper,1,GLM-5.2,2,2,2,2,2.0,50.0,2
+nv3_single_06_07,single_paper,1,PaperQA2,4,4,4,4,4.0,100.0,0
+nv3_single_06_07,single_paper,1,OpenScholar,2,2,2,2,2.0,50.0,3
+nv3_single_06_08,single_paper,1,MS3 Agent,4,4,4,4,4.0,100.0,0
+nv3_single_06_08,single_paper,1,DeepSeek V4 Pro,4,4,4,4,4.0,100.0,0
+nv3_single_06_08,single_paper,1,Kimi K3,4,4,4,4,4.0,100.0,0
+nv3_single_06_08,single_paper,1,GLM-5.2,4,4,4,4,4.0,100.0,0
+nv3_single_06_08,single_paper,1,PaperQA2,3,3,3,3,3.0,75.0,1
+nv3_single_06_08,single_paper,1,OpenScholar,3,3,3,3,3.0,75.0,1
+nv3_single_06_09,single_paper,1,MS3 Agent,4,4,4,4,4.0,100.0,0
+nv3_single_06_09,single_paper,1,DeepSeek V4 Pro,3,2,2,2,2.25,56.25,3
+nv3_single_06_09,single_paper,1,Kimi K3,2,2,2,2,2.0,50.0,3
+nv3_single_06_09,single_paper,1,GLM-5.2,2,2,2,2,2.0,50.0,3
+nv3_single_06_09,single_paper,1,PaperQA2,4,4,4,4,4.0,100.0,0
+nv3_single_06_09,single_paper,1,OpenScholar,2,1,1,1,1.25,31.25,4
+nv3_single_06_10,single_paper,1,MS3 Agent,4,4,4,4,4.0,100.0,0
+nv3_single_06_10,single_paper,1,DeepSeek V4 Pro,4,4,4,4,4.0,100.0,0
+nv3_single_06_10,single_paper,1,Kimi K3,4,4,4,4,4.0,100.0,0
+nv3_single_06_10,single_paper,1,GLM-5.2,4,4,4,4,4.0,100.0,0
+nv3_single_06_10,single_paper,1,PaperQA2,3,3,3,3,3.0,75.0,2
+nv3_single_06_10,single_paper,1,OpenScholar,2,2,2,2,2.0,50.0,3

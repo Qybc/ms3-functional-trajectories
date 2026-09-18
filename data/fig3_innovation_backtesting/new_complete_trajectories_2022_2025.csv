@@ -1,0 +1,6 @@
+class,count,percent
+All three local links pre-observed,1021,78.4
+Material-to-Sensor only,140,10.8
+Sensor-to-Signal only,78,6.0
+Signal-to-System only,28,2.2
+Multi-layer novelty,35,2.7

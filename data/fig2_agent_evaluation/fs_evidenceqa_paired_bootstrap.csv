@@ -1,0 +1,6 @@
+contrast,n_paired_items,mean_difference_0_4,bootstrap_95ci_low,bootstrap_95ci_high,bootstrap_replicates,positive_items,tied_items,negative_items,source
+MS3 Agent - DeepSeek V4 Pro,120,0.6479166666666667,0.40208333333333335,0.9,10000,71,23,26,frozen blind-evaluation summary
+MS3 Agent - Kimi K3,120,0.21458333333333332,-0.03333333333333333,0.46875,10000,53,35,32,frozen blind-evaluation summary
+MS3 Agent - GLM-5.2,120,0.42291666666666666,0.19166666666666668,0.6625,10000,57,35,28,frozen blind-evaluation summary
+MS3 Agent - PaperQA2,120,0.5895833333333333,0.3145833333333333,0.8583333333333333,10000,63,32,25,frozen blind-evaluation summary
+MS3 Agent - OpenScholar,120,1.0958333333333334,0.8916666666666667,1.2958333333333334,10000,95,9,16,frozen blind-evaluation summary

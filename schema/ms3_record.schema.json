@@ -1,0 +1,85 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://example.org/ms3_record.schema.json",
+  "title": "MS3 evidence-linked trajectory record",
+  "type": "object",
+  "required": ["record_type", "paper", "ms3_terms", "evidence", "mechanisms"],
+  "properties": {
+    "record_type": {"const": "illustrative_ms3_record"},
+    "paper": {
+      "type": "object",
+      "required": ["paper_id", "title", "year"],
+      "properties": {
+        "paper_id": {"type": "string"},
+        "title": {"type": "string"},
+        "doi": {"type": ["string", "null"]},
+        "year": {"type": ["integer", "null"]}
+      },
+      "additionalProperties": false
+    },
+    "ms3_terms": {
+      "type": "object",
+      "required": ["material", "sensor", "signal", "system"],
+      "properties": {
+        "material": {"type": "array", "items": {"type": "string"}},
+        "sensor": {"type": "array", "items": {"type": "string"}},
+        "signal": {"type": "array", "items": {"type": "string"}},
+        "system": {"type": "array", "items": {"type": "string"}}
+      },
+      "additionalProperties": false
+    },
+    "evidence": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "required": ["evidence_id", "role", "supports", "source"],
+        "properties": {
+          "evidence_id": {"type": "string", "pattern": "^E[0-9]+$"},
+          "role": {"enum": ["experiment", "property", "validation", "reference"]},
+          "supports": {"type": "array", "items": {"type": "string"}},
+          "source": {
+            "type": "object",
+            "required": ["section", "page"],
+            "properties": {
+              "section": {"type": "string"},
+              "page": {"type": ["integer", "null"]},
+              "figure_or_table": {"type": ["string", "null"]}
+            },
+            "additionalProperties": false
+          },
+          "source_text_status": {"type": "string"}
+        },
+        "additionalProperties": false
+      }
+    },
+    "mechanisms": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "required": ["mechanism_id", "path", "supported_relations", "evidence_chain"],
+        "properties": {
+          "mechanism_id": {"type": "string", "pattern": "^M[0-9]+$"},
+          "path": {
+            "type": "object",
+            "required": ["material", "sensor", "signal", "system"],
+            "properties": {
+              "material": {"type": ["string", "null"]},
+              "sensor": {"type": ["string", "null"]},
+              "signal": {"type": ["string", "null"]},
+              "system": {"type": ["string", "null"]}
+            },
+            "additionalProperties": false
+          },
+          "supported_relations": {"type": "array", "items": {"type": "string"}},
+          "evidence_chain": {
+            "type": "array",
+            "items": {"type": "string", "pattern": "^E[0-9]+$"}
+          },
+          "missing_relations": {"type": "array", "items": {"type": "string"}}
+        },
+        "additionalProperties": false
+      }
+    }
+  },
+  "additionalProperties": false
+}

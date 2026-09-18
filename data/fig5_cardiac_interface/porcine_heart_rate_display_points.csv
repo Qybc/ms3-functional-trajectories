@@ -1,0 +1,364 @@
+condition,relative_time_fraction,relative_time_s,heart_rate_bpm,smoothing
+Baseline,0.0,0.0,108.4991,centred 6-s moving median
+Baseline,0.0083333,0.249999,108.4991,centred 6-s moving median
+Baseline,0.0166667,0.500001,108.4991,centred 6-s moving median
+Baseline,0.025,0.75,108.4991,centred 6-s moving median
+Baseline,0.0333333,0.9999990000000001,108.4991,centred 6-s moving median
+Baseline,0.0416667,1.2500010000000001,108.4991,centred 6-s moving median
+Baseline,0.05,1.5,108.8435,centred 6-s moving median
+Baseline,0.0583333,1.7499989999999999,108.8435,centred 6-s moving median
+Baseline,0.0666667,2.0000009999999997,108.8435,centred 6-s moving median
+Baseline,0.075,2.25,108.8435,centred 6-s moving median
+Baseline,0.0833333,2.499999,108.8435,centred 6-s moving median
+Baseline,0.0916667,2.750001,108.8435,centred 6-s moving median
+Baseline,0.1,3.0,108.8435,centred 6-s moving median
+Baseline,0.1083333,3.249999,108.8435,centred 6-s moving median
+Baseline,0.1166667,3.500001,108.8435,centred 6-s moving median
+Baseline,0.125,3.75,108.6464,centred 6-s moving median
+Baseline,0.1333333,3.999999,108.6464,centred 6-s moving median
+Baseline,0.1416667,4.250001,108.6464,centred 6-s moving median
+Baseline,0.15,4.5,108.6464,centred 6-s moving median
+Baseline,0.1583333,4.749999000000001,108.6464,centred 6-s moving median
+Baseline,0.1666667,5.000001,108.6464,centred 6-s moving median
+Baseline,0.175,5.25,108.6464,centred 6-s moving median
+Baseline,0.1833333,5.499999,108.6464,centred 6-s moving median
+Baseline,0.1916667,5.750001,108.6464,centred 6-s moving median
+Baseline,0.2,6.0,108.7942,centred 6-s moving median
+Baseline,0.2083333,6.249999,108.7942,centred 6-s moving median
+Baseline,0.2166667,6.500000999999999,108.7942,centred 6-s moving median
+Baseline,0.225,6.75,108.7942,centred 6-s moving median
+Baseline,0.2333333,6.999999,108.7942,centred 6-s moving median
+Baseline,0.2416667,7.250001,108.7942,centred 6-s moving median
+Baseline,0.25,7.5,108.7942,centred 6-s moving median
+Baseline,0.2583333,7.749999,108.7942,centred 6-s moving median
+Baseline,0.2666667,8.000001,108.6464,centred 6-s moving median
+Baseline,0.275,8.25,108.6464,centred 6-s moving median
+Baseline,0.2833333,8.499999,108.6464,centred 6-s moving median
+Baseline,0.2916667,8.750001,108.6464,centred 6-s moving median
+Baseline,0.3,9.0,108.6464,centred 6-s moving median
+Baseline,0.3083333,9.249998999999999,108.6464,centred 6-s moving median
+Baseline,0.3166667,9.500001000000001,108.6464,centred 6-s moving median
+Baseline,0.325,9.75,108.6464,centred 6-s moving median
+Baseline,0.3333333,9.999999,108.6464,centred 6-s moving median
+Baseline,0.3416667,10.250001,108.6464,centred 6-s moving median
+Baseline,0.35,10.5,108.6464,centred 6-s moving median
+Baseline,0.3583333,10.749999,108.6464,centred 6-s moving median
+Baseline,0.3666667,11.000001000000001,108.6464,centred 6-s moving median
+Baseline,0.375,11.25,108.6464,centred 6-s moving median
+Baseline,0.3833333,11.499998999999999,108.6464,centred 6-s moving median
+Baseline,0.3916667,11.750001,108.6464,centred 6-s moving median
+Baseline,0.4,12.0,108.6464,centred 6-s moving median
+Baseline,0.4083333,12.249999,108.6464,centred 6-s moving median
+Baseline,0.4166667,12.500001,108.4501,centred 6-s moving median
+Baseline,0.425,12.75,108.4501,centred 6-s moving median
+Baseline,0.4333333,12.999998999999999,108.4501,centred 6-s moving median
+Baseline,0.4416667,13.250001000000001,108.4501,centred 6-s moving median
+Baseline,0.45,13.5,108.4501,centred 6-s moving median
+Baseline,0.4583333,13.749999,108.4501,centred 6-s moving median
+Baseline,0.4666667,14.000001,108.4501,centred 6-s moving median
+Baseline,0.475,14.25,108.4501,centred 6-s moving median
+Baseline,0.4833333,14.499999,108.4501,centred 6-s moving median
+Baseline,0.4916667,14.750001000000001,108.3521,centred 6-s moving median
+Baseline,0.5,15.0,108.3521,centred 6-s moving median
+Baseline,0.5083333,15.249998999999999,108.3521,centred 6-s moving median
+Baseline,0.5166667,15.500001000000001,108.3521,centred 6-s moving median
+Baseline,0.525,15.75,108.3521,centred 6-s moving median
+Baseline,0.5333333,15.999999,108.3521,centred 6-s moving median
+Baseline,0.5416667,16.250000999999997,108.3521,centred 6-s moving median
+Baseline,0.55,16.5,108.3521,centred 6-s moving median
+Baseline,0.5583333,16.749999000000003,108.3521,centred 6-s moving median
+Baseline,0.5666667,17.000000999999997,108.3032,centred 6-s moving median
+Baseline,0.575,17.25,108.3032,centred 6-s moving median
+Baseline,0.5833333,17.499999000000003,108.3032,centred 6-s moving median
+Baseline,0.5916667,17.750001,108.3032,centred 6-s moving median
+Baseline,0.6,18.0,108.3032,centred 6-s moving median
+Baseline,0.6083333,18.249999,108.3032,centred 6-s moving median
+Baseline,0.6166667,18.500001,108.3032,centred 6-s moving median
+Baseline,0.625,18.75,108.3032,centred 6-s moving median
+Baseline,0.6333333,18.999999,108.3032,centred 6-s moving median
+Baseline,0.6416667,19.250001,108.0594,centred 6-s moving median
+Baseline,0.65,19.5,108.0594,centred 6-s moving median
+Baseline,0.6583333,19.749999,108.0594,centred 6-s moving median
+Baseline,0.6666667,20.000000999999997,108.0594,centred 6-s moving median
+Baseline,0.675,20.25,108.0594,centred 6-s moving median
+Baseline,0.6833333,20.499999000000003,108.0594,centred 6-s moving median
+Baseline,0.6916667,20.750000999999997,108.0594,centred 6-s moving median
+Baseline,0.7,21.0,108.0594,centred 6-s moving median
+Baseline,0.7083333,21.249999000000003,108.0594,centred 6-s moving median
+Baseline,0.7166667,21.500001,108.0594,centred 6-s moving median
+Baseline,0.725,21.75,108.0594,centred 6-s moving median
+Baseline,0.7333333,21.999999,108.0594,centred 6-s moving median
+Baseline,0.7416667,22.250001,108.0594,centred 6-s moving median
+Baseline,0.75,22.5,108.0594,centred 6-s moving median
+Baseline,0.7583333,22.749999,108.0594,centred 6-s moving median
+Baseline,0.7666667,23.000001,108.0594,centred 6-s moving median
+Baseline,0.775,23.25,108.0594,centred 6-s moving median
+Baseline,0.7833333,23.499999,107.8167,centred 6-s moving median
+Baseline,0.7916667,23.750000999999997,107.8167,centred 6-s moving median
+Baseline,0.8,24.0,107.8167,centred 6-s moving median
+Baseline,0.8083333,24.249999000000003,107.8167,centred 6-s moving median
+Baseline,0.8166667,24.500000999999997,107.8167,centred 6-s moving median
+Baseline,0.825,24.75,107.8167,centred 6-s moving median
+Baseline,0.8333333,24.999999000000003,107.8167,centred 6-s moving median
+Baseline,0.8416667,25.250001,107.8167,centred 6-s moving median
+Baseline,0.85,25.5,107.8167,centred 6-s moving median
+Baseline,0.8583333,25.749999,107.8652,centred 6-s moving median
+Baseline,0.8666667,26.000001,107.8652,centred 6-s moving median
+Baseline,0.875,26.25,107.8652,centred 6-s moving median
+Baseline,0.8833333,26.499999,107.8652,centred 6-s moving median
+Baseline,0.8916667,26.750001,107.8652,centred 6-s moving median
+Baseline,0.9,27.0,107.8652,centred 6-s moving median
+Baseline,0.9083333,27.249999,107.8652,centred 6-s moving median
+Baseline,0.9166667,27.500000999999997,107.8652,centred 6-s moving median
+Baseline,0.925,27.75,107.8652,centred 6-s moving median
+Baseline,0.9333333,27.999999000000003,107.8652,centred 6-s moving median
+Baseline,0.9416667,28.250000999999997,107.8652,centred 6-s moving median
+Baseline,0.95,28.5,107.8652,centred 6-s moving median
+Baseline,0.9583333,28.749999000000003,107.7683,centred 6-s moving median
+Baseline,0.9666667,29.000001,107.8652,centred 6-s moving median
+Baseline,0.975,29.25,107.8652,centred 6-s moving median
+Baseline,0.9833333,29.499999,107.8652,centred 6-s moving median
+Baseline,0.9916667,29.750001,107.8652,centred 6-s moving median
+Baseline,1.0,30.0,107.8652,centred 6-s moving median
+Esmolol-induced slowing,0.0,0.0,89.6526,centred 6-s moving median
+Esmolol-induced slowing,0.0083333,0.249999,89.6526,centred 6-s moving median
+Esmolol-induced slowing,0.0166667,0.500001,89.6526,centred 6-s moving median
+Esmolol-induced slowing,0.025,0.75,89.6526,centred 6-s moving median
+Esmolol-induced slowing,0.0333333,0.9999990000000001,89.6526,centred 6-s moving median
+Esmolol-induced slowing,0.0416667,1.2500010000000001,89.6526,centred 6-s moving median
+Esmolol-induced slowing,0.05,1.5,89.6526,centred 6-s moving median
+Esmolol-induced slowing,0.0583333,1.7499989999999999,89.6526,centred 6-s moving median
+Esmolol-induced slowing,0.0666667,2.0000009999999997,89.6526,centred 6-s moving median
+Esmolol-induced slowing,0.075,2.25,89.6526,centred 6-s moving median
+Esmolol-induced slowing,0.0833333,2.499999,89.55224,centred 6-s moving median
+Esmolol-induced slowing,0.0916667,2.750001,89.55224,centred 6-s moving median
+Esmolol-induced slowing,0.1,3.0,89.55224,centred 6-s moving median
+Esmolol-induced slowing,0.1083333,3.249999,89.55224,centred 6-s moving median
+Esmolol-induced slowing,0.1166667,3.500001,89.55224,centred 6-s moving median
+Esmolol-induced slowing,0.125,3.75,89.55224,centred 6-s moving median
+Esmolol-induced slowing,0.1333333,3.999999,89.55224,centred 6-s moving median
+Esmolol-induced slowing,0.1416667,4.250001,89.55224,centred 6-s moving median
+Esmolol-induced slowing,0.15,4.5,89.55224,centred 6-s moving median
+Esmolol-induced slowing,0.1583333,4.749999000000001,89.55224,centred 6-s moving median
+Esmolol-induced slowing,0.1666667,5.000001,89.55224,centred 6-s moving median
+Esmolol-induced slowing,0.175,5.25,89.55224,centred 6-s moving median
+Esmolol-induced slowing,0.1833333,5.499999,89.55224,centred 6-s moving median
+Esmolol-induced slowing,0.1916667,5.750001,89.55224,centred 6-s moving median
+Esmolol-induced slowing,0.2,6.0,89.55224,centred 6-s moving median
+Esmolol-induced slowing,0.2083333,6.249999,89.55224,centred 6-s moving median
+Esmolol-induced slowing,0.2166667,6.500000999999999,89.55224,centred 6-s moving median
+Esmolol-induced slowing,0.225,6.75,89.55224,centred 6-s moving median
+Esmolol-induced slowing,0.2333333,6.999999,89.55224,centred 6-s moving median
+Esmolol-induced slowing,0.2416667,7.250001,89.55224,centred 6-s moving median
+Esmolol-induced slowing,0.25,7.5,89.55224,centred 6-s moving median
+Esmolol-induced slowing,0.2583333,7.749999,89.55224,centred 6-s moving median
+Esmolol-induced slowing,0.2666667,8.000001,89.55224,centred 6-s moving median
+Esmolol-induced slowing,0.275,8.25,89.55224,centred 6-s moving median
+Esmolol-induced slowing,0.2833333,8.499999,89.55224,centred 6-s moving median
+Esmolol-induced slowing,0.2916667,8.750001,89.55224,centred 6-s moving median
+Esmolol-induced slowing,0.3,9.0,89.55224,centred 6-s moving median
+Esmolol-induced slowing,0.3083333,9.249998999999999,89.55224,centred 6-s moving median
+Esmolol-induced slowing,0.3166667,9.500001000000001,89.55224,centred 6-s moving median
+Esmolol-induced slowing,0.325,9.75,89.55224,centred 6-s moving median
+Esmolol-induced slowing,0.3333333,9.999999,89.55224,centred 6-s moving median
+Esmolol-induced slowing,0.3416667,10.250001,89.55224,centred 6-s moving median
+Esmolol-induced slowing,0.35,10.5,89.55224,centred 6-s moving median
+Esmolol-induced slowing,0.3583333,10.749999,89.55224,centred 6-s moving median
+Esmolol-induced slowing,0.3666667,11.000001000000001,89.48546,centred 6-s moving median
+Esmolol-induced slowing,0.375,11.25,89.48546,centred 6-s moving median
+Esmolol-induced slowing,0.3833333,11.499998999999999,89.48546,centred 6-s moving median
+Esmolol-induced slowing,0.3916667,11.750001,89.48546,centred 6-s moving median
+Esmolol-induced slowing,0.4,12.0,89.48546,centred 6-s moving median
+Esmolol-induced slowing,0.4083333,12.249999,89.48546,centred 6-s moving median
+Esmolol-induced slowing,0.4166667,12.500001,89.48546,centred 6-s moving median
+Esmolol-induced slowing,0.425,12.75,89.48546,centred 6-s moving median
+Esmolol-induced slowing,0.4333333,12.999998999999999,89.48546,centred 6-s moving median
+Esmolol-induced slowing,0.4416667,13.250001000000001,89.48546,centred 6-s moving median
+Esmolol-induced slowing,0.45,13.5,89.55224,centred 6-s moving median
+Esmolol-induced slowing,0.4583333,13.749999,89.55224,centred 6-s moving median
+Esmolol-induced slowing,0.4666667,14.000001,89.55224,centred 6-s moving median
+Esmolol-induced slowing,0.475,14.25,89.55224,centred 6-s moving median
+Esmolol-induced slowing,0.4833333,14.499999,89.55224,centred 6-s moving median
+Esmolol-induced slowing,0.4916667,14.750001000000001,89.55224,centred 6-s moving median
+Esmolol-induced slowing,0.5,15.0,89.55224,centred 6-s moving median
+Esmolol-induced slowing,0.5083333,15.249998999999999,89.55224,centred 6-s moving median
+Esmolol-induced slowing,0.5166667,15.500001000000001,89.55224,centred 6-s moving median
+Esmolol-induced slowing,0.525,15.75,89.55224,centred 6-s moving median
+Esmolol-induced slowing,0.5333333,15.999999,89.55224,centred 6-s moving median
+Esmolol-induced slowing,0.5416667,16.250000999999997,89.51884,centred 6-s moving median
+Esmolol-induced slowing,0.55,16.5,89.51884,centred 6-s moving median
+Esmolol-induced slowing,0.5583333,16.749999000000003,89.51884,centred 6-s moving median
+Esmolol-induced slowing,0.5666667,17.000000999999997,89.51884,centred 6-s moving median
+Esmolol-induced slowing,0.575,17.25,89.51884,centred 6-s moving median
+Esmolol-induced slowing,0.5833333,17.499999000000003,89.51884,centred 6-s moving median
+Esmolol-induced slowing,0.5916667,17.750001,89.51884,centred 6-s moving median
+Esmolol-induced slowing,0.6,18.0,89.51884,centred 6-s moving median
+Esmolol-induced slowing,0.6083333,18.249999,89.51884,centred 6-s moving median
+Esmolol-induced slowing,0.6166667,18.500001,89.51884,centred 6-s moving median
+Esmolol-induced slowing,0.625,18.75,89.51884,centred 6-s moving median
+Esmolol-induced slowing,0.6333333,18.999999,89.55224,centred 6-s moving median
+Esmolol-induced slowing,0.6416667,19.250001,89.55224,centred 6-s moving median
+Esmolol-induced slowing,0.65,19.5,89.55224,centred 6-s moving median
+Esmolol-induced slowing,0.6583333,19.749999,89.55224,centred 6-s moving median
+Esmolol-induced slowing,0.6666667,20.000000999999997,89.55224,centred 6-s moving median
+Esmolol-induced slowing,0.675,20.25,89.55224,centred 6-s moving median
+Esmolol-induced slowing,0.6833333,20.499999000000003,89.55224,centred 6-s moving median
+Esmolol-induced slowing,0.6916667,20.750000999999997,89.55224,centred 6-s moving median
+Esmolol-induced slowing,0.7,21.0,89.55224,centred 6-s moving median
+Esmolol-induced slowing,0.7083333,21.249999000000003,89.55224,centred 6-s moving median
+Esmolol-induced slowing,0.7166667,21.500001,89.55224,centred 6-s moving median
+Esmolol-induced slowing,0.725,21.75,89.55224,centred 6-s moving median
+Esmolol-induced slowing,0.7333333,21.999999,89.55224,centred 6-s moving median
+Esmolol-induced slowing,0.7416667,22.250001,89.55224,centred 6-s moving median
+Esmolol-induced slowing,0.75,22.5,89.55224,centred 6-s moving median
+Esmolol-induced slowing,0.7583333,22.749999,89.55224,centred 6-s moving median
+Esmolol-induced slowing,0.7666667,23.000001,89.55224,centred 6-s moving median
+Esmolol-induced slowing,0.775,23.25,89.55224,centred 6-s moving median
+Esmolol-induced slowing,0.7833333,23.499999,89.55224,centred 6-s moving median
+Esmolol-induced slowing,0.7916667,23.750000999999997,89.55224,centred 6-s moving median
+Esmolol-induced slowing,0.8,24.0,89.55224,centred 6-s moving median
+Esmolol-induced slowing,0.8083333,24.249999000000003,89.6526,centred 6-s moving median
+Esmolol-induced slowing,0.8166667,24.500000999999997,89.6526,centred 6-s moving median
+Esmolol-induced slowing,0.825,24.75,89.6526,centred 6-s moving median
+Esmolol-induced slowing,0.8333333,24.999999000000003,89.6526,centred 6-s moving median
+Esmolol-induced slowing,0.8416667,25.250001,89.6526,centred 6-s moving median
+Esmolol-induced slowing,0.85,25.5,89.6526,centred 6-s moving median
+Esmolol-induced slowing,0.8583333,25.749999,89.6526,centred 6-s moving median
+Esmolol-induced slowing,0.8666667,26.000001,89.6526,centred 6-s moving median
+Esmolol-induced slowing,0.875,26.25,89.6526,centred 6-s moving median
+Esmolol-induced slowing,0.8833333,26.499999,89.6526,centred 6-s moving median
+Esmolol-induced slowing,0.8916667,26.750001,89.6526,centred 6-s moving median
+Esmolol-induced slowing,0.9,27.0,89.71963,centred 6-s moving median
+Esmolol-induced slowing,0.9083333,27.249999,89.71963,centred 6-s moving median
+Esmolol-induced slowing,0.9166667,27.500000999999997,89.71963,centred 6-s moving median
+Esmolol-induced slowing,0.925,27.75,89.75318,centred 6-s moving median
+Esmolol-induced slowing,0.9333333,27.999999000000003,89.75318,centred 6-s moving median
+Esmolol-induced slowing,0.9416667,28.250000999999997,89.75318,centred 6-s moving median
+Esmolol-induced slowing,0.95,28.5,89.75318,centred 6-s moving median
+Esmolol-induced slowing,0.9583333,28.749999000000003,89.75318,centred 6-s moving median
+Esmolol-induced slowing,0.9666667,29.000001,89.75318,centred 6-s moving median
+Esmolol-induced slowing,0.975,29.25,89.75318,centred 6-s moving median
+Esmolol-induced slowing,0.9833333,29.499999,89.75318,centred 6-s moving median
+Esmolol-induced slowing,0.9916667,29.750001,89.75318,centred 6-s moving median
+Esmolol-induced slowing,1.0,30.0,89.75318,centred 6-s moving median
+120-bpm ventricular pacing after esmolol,0.0,0.0,119.94,centred 6-s moving median
+120-bpm ventricular pacing after esmolol,0.0083333,0.249999,119.94,centred 6-s moving median
+120-bpm ventricular pacing after esmolol,0.0166667,0.500001,119.94,centred 6-s moving median
+120-bpm ventricular pacing after esmolol,0.025,0.75,119.94,centred 6-s moving median
+120-bpm ventricular pacing after esmolol,0.0333333,0.9999990000000001,119.94,centred 6-s moving median
+120-bpm ventricular pacing after esmolol,0.0416667,1.2500010000000001,119.8801,centred 6-s moving median
+120-bpm ventricular pacing after esmolol,0.05,1.5,119.8801,centred 6-s moving median
+120-bpm ventricular pacing after esmolol,0.0583333,1.7499989999999999,119.8801,centred 6-s moving median
+120-bpm ventricular pacing after esmolol,0.0666667,2.0000009999999997,119.8801,centred 6-s moving median
+120-bpm ventricular pacing after esmolol,0.075,2.25,119.8801,centred 6-s moving median
+120-bpm ventricular pacing after esmolol,0.0833333,2.499999,119.8801,centred 6-s moving median
+120-bpm ventricular pacing after esmolol,0.0916667,2.750001,119.8801,centred 6-s moving median
+120-bpm ventricular pacing after esmolol,0.1,3.0,119.8801,centred 6-s moving median
+120-bpm ventricular pacing after esmolol,0.1083333,3.249999,119.8801,centred 6-s moving median
+120-bpm ventricular pacing after esmolol,0.1166667,3.500001,119.94,centred 6-s moving median
+120-bpm ventricular pacing after esmolol,0.125,3.75,119.94,centred 6-s moving median
+120-bpm ventricular pacing after esmolol,0.1333333,3.999999,119.94,centred 6-s moving median
+120-bpm ventricular pacing after esmolol,0.1416667,4.250001,119.94,centred 6-s moving median
+120-bpm ventricular pacing after esmolol,0.15,4.5,119.94,centred 6-s moving median
+120-bpm ventricular pacing after esmolol,0.1583333,4.749999000000001,119.94,centred 6-s moving median
+120-bpm ventricular pacing after esmolol,0.1666667,5.000001,119.94,centred 6-s moving median
+120-bpm ventricular pacing after esmolol,0.175,5.25,119.94,centred 6-s moving median
+120-bpm ventricular pacing after esmolol,0.1833333,5.499999,119.8801,centred 6-s moving median
+120-bpm ventricular pacing after esmolol,0.1916667,5.750001,119.8801,centred 6-s moving median
+120-bpm ventricular pacing after esmolol,0.2,6.0,119.8801,centred 6-s moving median
+120-bpm ventricular pacing after esmolol,0.2083333,6.249999,119.8801,centred 6-s moving median
+120-bpm ventricular pacing after esmolol,0.2166667,6.500000999999999,119.8801,centred 6-s moving median
+120-bpm ventricular pacing after esmolol,0.225,6.75,119.8801,centred 6-s moving median
+120-bpm ventricular pacing after esmolol,0.2333333,6.999999,119.8801,centred 6-s moving median
+120-bpm ventricular pacing after esmolol,0.2416667,7.250001,119.8801,centred 6-s moving median
+120-bpm ventricular pacing after esmolol,0.25,7.5,119.94,centred 6-s moving median
+120-bpm ventricular pacing after esmolol,0.2583333,7.749999,119.94,centred 6-s moving median
+120-bpm ventricular pacing after esmolol,0.2666667,8.000001,119.94,centred 6-s moving median
+120-bpm ventricular pacing after esmolol,0.275,8.25,119.94,centred 6-s moving median
+120-bpm ventricular pacing after esmolol,0.2833333,8.499999,119.94,centred 6-s moving median
+120-bpm ventricular pacing after esmolol,0.2916667,8.750001,119.94,centred 6-s moving median
+120-bpm ventricular pacing after esmolol,0.3,9.0,119.94,centred 6-s moving median
+120-bpm ventricular pacing after esmolol,0.3083333,9.249998999999999,119.94,centred 6-s moving median
+120-bpm ventricular pacing after esmolol,0.3166667,9.500001000000001,119.8801,centred 6-s moving median
+120-bpm ventricular pacing after esmolol,0.325,9.75,119.8801,centred 6-s moving median
+120-bpm ventricular pacing after esmolol,0.3333333,9.999999,119.8801,centred 6-s moving median
+120-bpm ventricular pacing after esmolol,0.3416667,10.250001,119.8801,centred 6-s moving median
+120-bpm ventricular pacing after esmolol,0.35,10.5,119.8801,centred 6-s moving median
+120-bpm ventricular pacing after esmolol,0.3583333,10.749999,119.8801,centred 6-s moving median
+120-bpm ventricular pacing after esmolol,0.3666667,11.000001000000001,119.8801,centred 6-s moving median
+120-bpm ventricular pacing after esmolol,0.375,11.25,119.8801,centred 6-s moving median
+120-bpm ventricular pacing after esmolol,0.3833333,11.499998999999999,119.94,centred 6-s moving median
+120-bpm ventricular pacing after esmolol,0.3916667,11.750001,119.94,centred 6-s moving median
+120-bpm ventricular pacing after esmolol,0.4,12.0,119.94,centred 6-s moving median
+120-bpm ventricular pacing after esmolol,0.4083333,12.249999,119.94,centred 6-s moving median
+120-bpm ventricular pacing after esmolol,0.4166667,12.500001,119.94,centred 6-s moving median
+120-bpm ventricular pacing after esmolol,0.425,12.75,119.94,centred 6-s moving median
+120-bpm ventricular pacing after esmolol,0.4333333,12.999998999999999,119.94,centred 6-s moving median
+120-bpm ventricular pacing after esmolol,0.4416667,13.250001000000001,119.94,centred 6-s moving median
+120-bpm ventricular pacing after esmolol,0.45,13.5,119.8801,centred 6-s moving median
+120-bpm ventricular pacing after esmolol,0.4583333,13.749999,119.8801,centred 6-s moving median
+120-bpm ventricular pacing after esmolol,0.4666667,14.000001,119.8801,centred 6-s moving median
+120-bpm ventricular pacing after esmolol,0.475,14.25,119.8801,centred 6-s moving median
+120-bpm ventricular pacing after esmolol,0.4833333,14.499999,119.8801,centred 6-s moving median
+120-bpm ventricular pacing after esmolol,0.4916667,14.750001000000001,119.8801,centred 6-s moving median
+120-bpm ventricular pacing after esmolol,0.5,15.0,119.8801,centred 6-s moving median
+120-bpm ventricular pacing after esmolol,0.5083333,15.249998999999999,119.8801,centred 6-s moving median
+120-bpm ventricular pacing after esmolol,0.5166667,15.500001000000001,119.8801,centred 6-s moving median
+120-bpm ventricular pacing after esmolol,0.525,15.75,119.8801,centred 6-s moving median
+120-bpm ventricular pacing after esmolol,0.5333333,15.999999,119.8801,centred 6-s moving median
+120-bpm ventricular pacing after esmolol,0.5416667,16.250000999999997,119.8801,centred 6-s moving median
+120-bpm ventricular pacing after esmolol,0.55,16.5,119.8801,centred 6-s moving median
+120-bpm ventricular pacing after esmolol,0.5583333,16.749999000000003,119.8801,centred 6-s moving median
+120-bpm ventricular pacing after esmolol,0.5666667,17.000000999999997,119.8801,centred 6-s moving median
+120-bpm ventricular pacing after esmolol,0.575,17.25,119.8801,centred 6-s moving median
+120-bpm ventricular pacing after esmolol,0.5833333,17.499999000000003,119.8801,centred 6-s moving median
+120-bpm ventricular pacing after esmolol,0.5916667,17.750001,119.8801,centred 6-s moving median
+120-bpm ventricular pacing after esmolol,0.6,18.0,119.8801,centred 6-s moving median
+120-bpm ventricular pacing after esmolol,0.6083333,18.249999,119.8801,centred 6-s moving median
+120-bpm ventricular pacing after esmolol,0.6166667,18.500001,119.8801,centred 6-s moving median
+120-bpm ventricular pacing after esmolol,0.625,18.75,119.8801,centred 6-s moving median
+120-bpm ventricular pacing after esmolol,0.6333333,18.999999,119.8801,centred 6-s moving median
+120-bpm ventricular pacing after esmolol,0.6416667,19.250001,119.8801,centred 6-s moving median
+120-bpm ventricular pacing after esmolol,0.65,19.5,119.8801,centred 6-s moving median
+120-bpm ventricular pacing after esmolol,0.6583333,19.749999,119.8801,centred 6-s moving median
+120-bpm ventricular pacing after esmolol,0.6666667,20.000000999999997,119.8801,centred 6-s moving median
+120-bpm ventricular pacing after esmolol,0.675,20.25,119.8801,centred 6-s moving median
+120-bpm ventricular pacing after esmolol,0.6833333,20.499999000000003,119.8801,centred 6-s moving median
+120-bpm ventricular pacing after esmolol,0.6916667,20.750000999999997,119.8801,centred 6-s moving median
+120-bpm ventricular pacing after esmolol,0.7,21.0,119.8801,centred 6-s moving median
+120-bpm ventricular pacing after esmolol,0.7083333,21.249999000000003,119.8801,centred 6-s moving median
+120-bpm ventricular pacing after esmolol,0.7166667,21.500001,119.8801,centred 6-s moving median
+120-bpm ventricular pacing after esmolol,0.725,21.75,119.94,centred 6-s moving median
+120-bpm ventricular pacing after esmolol,0.7333333,21.999999,119.94,centred 6-s moving median
+120-bpm ventricular pacing after esmolol,0.7416667,22.250001,119.94,centred 6-s moving median
+120-bpm ventricular pacing after esmolol,0.75,22.5,119.94,centred 6-s moving median
+120-bpm ventricular pacing after esmolol,0.7583333,22.749999,119.94,centred 6-s moving median
+120-bpm ventricular pacing after esmolol,0.7666667,23.000001,119.94,centred 6-s moving median
+120-bpm ventricular pacing after esmolol,0.775,23.25,119.94,centred 6-s moving median
+120-bpm ventricular pacing after esmolol,0.7833333,23.499999,119.94,centred 6-s moving median
+120-bpm ventricular pacing after esmolol,0.7916667,23.750000999999997,119.8801,centred 6-s moving median
+120-bpm ventricular pacing after esmolol,0.8,24.0,119.8801,centred 6-s moving median
+120-bpm ventricular pacing after esmolol,0.8083333,24.249999000000003,119.8801,centred 6-s moving median
+120-bpm ventricular pacing after esmolol,0.8166667,24.500000999999997,119.8801,centred 6-s moving median
+120-bpm ventricular pacing after esmolol,0.825,24.75,119.8801,centred 6-s moving median
+120-bpm ventricular pacing after esmolol,0.8333333,24.999999000000003,119.8801,centred 6-s moving median
+120-bpm ventricular pacing after esmolol,0.8416667,25.250001,119.8801,centred 6-s moving median
+120-bpm ventricular pacing after esmolol,0.85,25.5,119.8801,centred 6-s moving median
+120-bpm ventricular pacing after esmolol,0.8583333,25.749999,119.94,centred 6-s moving median
+120-bpm ventricular pacing after esmolol,0.8666667,26.000001,119.94,centred 6-s moving median
+120-bpm ventricular pacing after esmolol,0.875,26.25,119.94,centred 6-s moving median
+120-bpm ventricular pacing after esmolol,0.8833333,26.499999,119.94,centred 6-s moving median
+120-bpm ventricular pacing after esmolol,0.8916667,26.750001,119.94,centred 6-s moving median
+120-bpm ventricular pacing after esmolol,0.9,27.0,119.94,centred 6-s moving median
+120-bpm ventricular pacing after esmolol,0.9083333,27.249999,119.94,centred 6-s moving median
+120-bpm ventricular pacing after esmolol,0.9166667,27.500000999999997,119.94,centred 6-s moving median
+120-bpm ventricular pacing after esmolol,0.925,27.75,119.94,centred 6-s moving median
+120-bpm ventricular pacing after esmolol,0.9333333,27.999999000000003,119.94,centred 6-s moving median
+120-bpm ventricular pacing after esmolol,0.9416667,28.250000999999997,119.94,centred 6-s moving median
+120-bpm ventricular pacing after esmolol,0.95,28.5,119.94,centred 6-s moving median
+120-bpm ventricular pacing after esmolol,0.9583333,28.749999000000003,119.94,centred 6-s moving median
+120-bpm ventricular pacing after esmolol,0.9666667,29.000001,119.94,centred 6-s moving median
+120-bpm ventricular pacing after esmolol,0.975,29.25,119.94,centred 6-s moving median
+120-bpm ventricular pacing after esmolol,0.9833333,29.499999,119.94,centred 6-s moving median
+120-bpm ventricular pacing after esmolol,0.9916667,29.750001,119.94,centred 6-s moving median
+120-bpm ventricular pacing after esmolol,1.0,30.0,119.94,centred 6-s moving median

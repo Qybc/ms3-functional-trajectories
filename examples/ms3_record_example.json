@@ -1,0 +1,56 @@
+{
+  "record_type": "illustrative_ms3_record",
+  "paper": {
+    "paper_id": "P_EXAMPLE_001",
+    "title": "Copyright-safe illustrative conductive-fibre sensing record",
+    "doi": null,
+    "year": null
+  },
+  "ms3_terms": {
+    "material": ["conductive composite on a deformable fibre scaffold"],
+    "sensor": ["strain-sensitive conductive network"],
+    "signal": ["relative resistance change"],
+    "system": ["motion-monitoring demonstrator"]
+  },
+  "evidence": [
+    {
+      "evidence_id": "E1",
+      "role": "experiment",
+      "supports": ["Material->Sensor"],
+      "source": {"section": "Methods", "page": 3, "figure_or_table": null},
+      "source_text_status": "publisher text not redistributed"
+    },
+    {
+      "evidence_id": "E2",
+      "role": "property",
+      "supports": ["Sensor->Signal"],
+      "source": {"section": "Results", "page": 5, "figure_or_table": "Figure 2"},
+      "source_text_status": "publisher text not redistributed"
+    },
+    {
+      "evidence_id": "E3",
+      "role": "validation",
+      "supports": ["Signal->System"],
+      "source": {"section": "Results", "page": 7, "figure_or_table": "Figure 4"},
+      "source_text_status": "publisher text not redistributed"
+    }
+  ],
+  "mechanisms": [
+    {
+      "mechanism_id": "M1",
+      "path": {
+        "material": "conductive composite on a deformable fibre scaffold",
+        "sensor": "strain-sensitive conductive network",
+        "signal": "relative resistance change",
+        "system": "motion-monitoring demonstrator"
+      },
+      "supported_relations": [
+        "Material->Sensor",
+        "Sensor->Signal",
+        "Signal->System"
+      ],
+      "evidence_chain": ["E1", "E2", "E3"],
+      "missing_relations": []
+    }
+  ]
+}
