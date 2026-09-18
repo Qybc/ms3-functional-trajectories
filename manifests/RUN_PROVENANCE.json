@@ -9,7 +9,7 @@
     "evidence_items": 131083,
     "trajectory_records": 26648,
     "complete_trajectories": 15703,
-    "full_text": "controlled reviewer access where licensing permits; not included in public release",
+    "full_text": "not included in the public release; access remains governed by source licences",
     "public_derived_records": {
       "strict_paper_trajectory_units": 4127,
       "new_complete_trajectories_2022_2025": 1302,
@@ -23,8 +23,8 @@
         "ScholarQA-CS2": 100,
         "SciCUEval Materials": 200
       },
-      "released_level": "frozen complete-set aggregate scores",
-      "per_item_outputs": "not included in verified public snapshot"
+      "released_level": "complete-set aggregate scores",
+      "item_level_release_scope": "not included in the shared release"
     },
     "fs_evidenceqa": {
       "questions": 120,
@@ -73,7 +73,7 @@
     },
     {
       "relative_path": "data/fig2_agent_evaluation/fs_evidenceqa_blind_summary.json",
-      "sha256": "19bca2ce9da811e8a5990a26af933ddf48cb7c3881afbdafe02f285f661ef90d"
+      "sha256": "fd6592da9f263492ea0b1be5102391389a50a86fee75483511171524830254a2"
     },
     {
       "relative_path": "data/fig3_innovation_backtesting/strict_primary_trajectory_units.csv",

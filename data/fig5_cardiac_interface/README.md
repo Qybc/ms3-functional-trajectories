@@ -1,6 +1,6 @@
 # Figure 5 cardiac-interface data
 
-The directory contains raw mechanical/electrical workbooks, SEM/EDS images and
+The directory contains raw mechanical and electrical workbooks together with
 the condition-labelled physiological display data used in the main figure.
 Fr-PAEI mechanical and cyclic-electrical characterization used five specimens
 per group. The acute porcine study used two animals and is analysed

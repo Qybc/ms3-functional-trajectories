@@ -10,5 +10,7 @@
   candidate rows;
 - added the MS3 record schema, copyright-safe demonstration, analysis code,
   agent protocol, validation tools and reproducibility documentation;
+- added a publisher-text-free subset of an actual stored extraction record and
+  verbatim outputs with blinded judgments for three frozen FS EvidenceQA cases;
 - applied BSD 3-Clause to author-owned code and CC BY 4.0 to author-generated,
   redistributable data and documentation.

@@ -14,21 +14,21 @@
       "n_items": 75,
       "primary_metric": "exact-label accuracy",
       "missing_outputs_scored_incorrect": true,
-      "item_level_final_archive_status": "not included in verified public snapshot"
+      "released_result_level": "complete-set aggregate score; item-level outputs not included"
     },
     {
       "name": "ScholarQA-CS2",
       "n_items": 100,
       "primary_metric": "official global average",
       "missing_outputs_scored_incorrect": true,
-      "item_level_final_archive_status": "not included in verified public snapshot"
+      "released_result_level": "complete-set aggregate score; item-level outputs not included"
     },
     {
       "name": "SciCUEval Materials",
       "n_items": 200,
       "primary_metric": "eight-stratum macro-average",
       "missing_outputs_scored_incorrect": true,
-      "item_level_final_archive_status": "not included in verified public snapshot"
+      "released_result_level": "complete-set aggregate score; item-level outputs not included"
     },
     {
       "name": "FS EvidenceQA",

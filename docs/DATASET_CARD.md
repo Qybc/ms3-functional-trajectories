@@ -35,23 +35,20 @@ analysis. A paper-disjoint set of 200 expert-annotated papers was reserved for
 evaluation.
 
 The held-out evaluation reported 99.6% evidence-source accuracy, 91.7%
-completeness, 95.6% effective quality and 83.3% semantic full-path accuracy.
-These metrics describe different failure modes and should not be collapsed into
-a single accuracy claim.
+completeness, 95.6% effective quality and 83.3% semantic full-path accuracy,
+capturing complementary aspects of extraction quality.
 
 ## Public and controlled-access layers
 
-This release contains aggregate and per-item numeric evaluation data needed for
-the figures, historical backtest outputs, experimental source data and two
+This release contains aggregate public-benchmark results, per-item FS EvidenceQA
+scores, historical backtest outputs, experimental source data and two
 copyright-permitted trajectory tables: 4,127 strict paper--trajectory units and
 the 1,302 unique complete trajectories supporting the 2022--2025 composition
 analysis. It does not redistribute publisher PDFs, copyrighted figures, long
 article excerpts, institutional-access acquisition scripts or API credentials.
 
-The frozen full-text database and complete audit packets are retained by the
-authors for editorial or reviewer inspection under controlled access. The
-public trajectory tables contain normalized roles, bibliographic metadata and
-source pointers while excluding restricted source content.
+The public trajectory tables contain normalized roles, bibliographic metadata
+and source pointers while excluding restricted source content.
 
 ## Intended uses
 

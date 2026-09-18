@@ -1,8 +1,6 @@
 {
   "status": "complete",
-  "judge_api_base": "http://127.0.0.1:18102/v1",
   "judge_model": "qwen3-30b-a3b-instruct-2507",
-  "judge_is_same_provider_as_answer_backbone": false,
   "method_identity_hidden": true,
   "methods": [
     "deepseek_v4_pro_evidence",
@@ -10,7 +8,6 @@
     "glm_5_2_evidence",
     "paperqa2_deepseek",
     "openscholar_style_deepseek",
-    "ms3_agent_deepseek",
-    "llamat_3_chat"
+    "ms3_agent_deepseek"
   ]
 }

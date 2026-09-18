@@ -6,7 +6,7 @@ code needed to inspect the MS³ representation, verify the principal numerical
 results and rebuild the Source Data and Supplementary Data workbooks.
 
 Publisher full text and access-controlled literature databases are not
-redistributed. Their absence does not affect the public checks described below.
+redistributed. The checks below use only files included in this release.
 
 ## Quick start
 
@@ -38,15 +38,17 @@ python3 code/agent/ms3_agent.py --db /tmp/ms3_demo.sqlite \
 - `code/agent/`: the bounded MS³ Agent controller, tool definitions and
   evaluation rubrics. Full inference requires a compatible literature database
   and a model endpoint.
-- `code/historical_backtesting/`: the frozen analysis implementation used for
+- `code/historical_backtesting/`: the analysis implementation used for
   the temporal evaluation. Public-data-only verification is provided separately
   in `code/analysis/`.
 - `code/figure_data/`: data-preparation and plotting scripts for experimental
   panels.
 - `code/release/`: workbook builders, integrity checks and archive utilities.
-- `schema/` and `examples/`: the MS³ record schema and a copyright-safe example
-  from which the local tool-demo database is built.
-- `configs/`: frozen agent and evaluation definitions.
+- `schema/` and `examples/`: the MS³ record schema, the copyright-safe record
+  used by the local tool demo, mechanism-centred complete and partial views of
+  actual extraction records with their linked evidence excerpts, and verbatim
+  outputs from three FS EvidenceQA cases.
+- `configs/`: agent and evaluation definitions.
 - `docs/`: installation, data dictionary, provenance and reproducibility notes.
 - `manifests/`: file checksums and analysis provenance.
 
@@ -63,11 +65,9 @@ The public package supports:
 5. inspection of the processed and raw experimental data distributed with the
    study.
 
-Re-running literature extraction or live Agent retrieval requires source
-articles, the frozen MS³ database and third-party model access. These resources
-are not part of the public archive. The corresponding code is included to make
-the implementation inspectable, not to imply that restricted inputs are
-redistributed.
+Re-running literature extraction or live Agent retrieval additionally requires
+source articles, the MS³ database and third-party model access, which are not
+part of the public archive.
 
 ## Data and rights
 

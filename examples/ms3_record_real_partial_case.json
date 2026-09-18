@@ -1,0 +1,96 @@
+{
+  "schema_version": "fibersense_ms3_paper_data_v1.6_en_evidence_centered_ms3_single_direction_links",
+  "paper": {
+    "paper_id": "P_000619",
+    "doi": "10.1007/s40820-023-01054-0",
+    "title": "Mechanoluminescent-Triboelectric Bimodal Sensors for Self-Powered Sensing and Intelligent Control",
+    "year": 2023,
+    "license": "CC BY 4.0"
+  },
+  "mechanism_objects": [
+    {
+      "mechanism_id": "MO_003",
+      "mechanism_scope": "Sensor-to-Signal",
+      "task": "mechanoluminescent and triboelectric signal transduction",
+      "ms3_elements": {
+        "sensor": "MTBS with PDMS/ZnS:Cu elastomer and microstructured triboelectric surface",
+        "signal": "mechanoluminescent grayscale/RGB values and triboelectric Voc/Isc"
+      },
+      "mechanism_statement": "Under mechanical deformation, Zn–S bond breaking in ZnS:Cu leads to electron tunneling and mechanoluminescence whose intensity scales linearly with stretching rate, while contact-separation of the microstructured PDMS/ZnS:Cu surface generates triboelectric voltage and current that increase with surface roughness and applied force.",
+      "evidence_chain": {
+        "experiment": [],
+        "reference": [],
+        "property": [
+          "E4",
+          "E5",
+          "E7"
+        ],
+        "validation": []
+      }
+    }
+  ],
+  "evidence": [
+    {
+      "id": "E4",
+      "evidence_type": "property",
+      "source": {
+        "section": "Introduction",
+        "figure_or_table": "Fig. 1b-c"
+      },
+      "article_excerpt": [
+        "The covalently bonded s and p electrons will be redistributed after a Zn–S bond breaking, leading to an energy band bending and the tunneling of trapped electrons to the conduction band."
+      ],
+      "supports_ms3": {
+        "elements": [
+          "signal",
+          "sensor"
+        ],
+        "relations": [
+          "sensor_to_signal"
+        ]
+      }
+    },
+    {
+      "id": "E5",
+      "evidence_type": "property",
+      "source": {
+        "section": "Mechanoluminescent Sensing",
+        "figure_or_table": "Fig. 2c-d"
+      },
+      "article_excerpt": [
+        "both the intensity and grayscale value of the luminescence increase with increasing stretching rate.",
+        "The relationship between stretching rate and grayscale values is approximately linear with a goodness of fit > 97% (Fig. 2d)."
+      ],
+      "supports_ms3": {
+        "elements": [
+          "signal",
+          "sensor"
+        ],
+        "relations": [
+          "sensor_to_signal"
+        ]
+      }
+    },
+    {
+      "id": "E7",
+      "evidence_type": "property",
+      "source": {
+        "section": "Triboelectric Sensing",
+        "figure_or_table": "Fig. 3d"
+      },
+      "article_excerpt": [
+        "Figure 3d shows the effect of structured surface on the Voc and Isc.",
+        "The voltage of devices with smooth surface is only about 8 V, while the voltage of devices with rough surface increases to 24 V (a three-fold increase)."
+      ],
+      "supports_ms3": {
+        "elements": [
+          "signal",
+          "sensor"
+        ],
+        "relations": [
+          "sensor_to_signal"
+        ]
+      }
+    }
+  ]
+}

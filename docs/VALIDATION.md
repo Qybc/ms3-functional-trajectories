@@ -15,10 +15,6 @@ Validated on 18 September 2026:
   released CSV/JSON files and matched the distributed workbooks cell by cell.
 - The final ZIP was extracted into a clean temporary directory; the validator,
   deep workbook rebuild and example-record demonstration all passed there.
-- The package was scanned for the MS3 server credentials, SSH endpoints, private
-  key markers and API-key-like strings; none were found.
-- The public package contains no site-specific absolute filesystem paths.
-
 The ECG extraction script requires the complete porcine recording supplied by the
 authors through `MS3_PORCINE_RECORDING`; the public package instead contains the
 exact decimated ECG points and smoothed heart-rate points used in the figure.

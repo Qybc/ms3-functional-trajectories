@@ -97,7 +97,7 @@ def main() -> None:
         ("Version", "v1, 18 September 2026"),
         ("Scope", "Numeric data underlying plotted results in main Figs. 1-5"),
         ("FS EvidenceQA", "Per-item numeric judgments are included; full answers and copyrighted evidence packets are not redistributed"),
-        ("Public benchmarks", "Frozen complete-set aggregate scores are included; public-benchmark per-item outputs are not part of the verified public snapshot"),
+        ("Public benchmarks", "Complete-set aggregate scores are included; item-level model outputs are not included in the shared release"),
         ("Images", "Raw SEM/EDS images are distributed as separate files under data/fig4_conductive_network/raw and data/fig5_cardiac_interface/raw"),
         ("Note", "Representative experimental traces are descriptive; independent-replicate counts are reported in the manuscript"),
     )

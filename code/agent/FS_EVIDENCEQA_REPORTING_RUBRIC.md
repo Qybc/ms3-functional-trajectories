@@ -19,8 +19,6 @@ Each dimension was scored from 0 to 4:
   unreported content.
 
 The prespecified composite is the unweighted mean of the four scores. Unsupported
-substantive claims were counted separately. The frozen judgments also record the
-most important error, a short justification and a within-case ranking. The main
-figure reports six systems; the archived seven-system run additionally contained
-LLaMat, which is not shown in the final comparison.
-
+substantive claims were counted separately. The judgments also record the most
+important error, a short justification and a within-case ranking for the six
+systems reported in the manuscript.

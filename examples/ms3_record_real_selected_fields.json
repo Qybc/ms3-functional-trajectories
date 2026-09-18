@@ -1,0 +1,296 @@
+{
+  "schema_version": "fibersense_ms3_paper_data_v1.6_en_evidence_centered_ms3_single_direction_links",
+  "paper": {
+    "paper_id": "P_MS3T_000075",
+    "doi": "10.1126/sciadv.adj5389",
+    "title": "A 10-micrometer-thick nanomesh-reinforced gas-permeable hydrogel skin sensor for long-term electrophysiological monitoring",
+    "year": 2024
+  },
+  "ms3": {
+    "material": {
+      "paper_terms": [
+        "gelatin-based thermal-dependent phase change hydrogel",
+        "polyurethane (PU) nanomesh"
+      ]
+    },
+    "sensor": {
+      "paper_terms": [
+        "ultrathin hydrogel skin sensor",
+        "nanomesh-reinforced hydrogel electrode"
+      ]
+    },
+    "signal": {
+      "paper_terms": [
+        "electrocardiogram (ECG)",
+        "electromyogram (EMG)"
+      ]
+    },
+    "system": {
+      "paper_terms": [
+        "wireless ECG monitoring module",
+        "portable wireless module with Bluetooth"
+      ]
+    }
+  },
+  "evidence": [
+    {
+      "id": "E1",
+      "evidence_type": "experiment",
+      "source": {
+        "section": "Results",
+        "figure_or_table": "Fig. 1C"
+      },
+      "supports_ms3": {
+        "elements": [
+          "material",
+          "sensor"
+        ],
+        "relations": [
+          "material_to_sensor"
+        ]
+      }
+    },
+    {
+      "id": "E2",
+      "evidence_type": "property",
+      "source": {
+        "section": "Results",
+        "figure_or_table": "Fig. 1D"
+      },
+      "supports_ms3": {
+        "elements": [
+          "material",
+          "sensor"
+        ],
+        "relations": [
+          "material_to_sensor"
+        ]
+      }
+    },
+    {
+      "id": "E3",
+      "evidence_type": "experiment",
+      "source": {
+        "section": "Results",
+        "figure_or_table": "Fig. 2G"
+      },
+      "supports_ms3": {
+        "elements": [
+          "material",
+          "sensor"
+        ],
+        "relations": [
+          "material_to_sensor"
+        ]
+      }
+    },
+    {
+      "id": "E4",
+      "evidence_type": "experiment",
+      "source": {
+        "section": "Results",
+        "figure_or_table": "Fig. 2H"
+      },
+      "supports_ms3": {
+        "elements": [
+          "material"
+        ],
+        "relations": []
+      }
+    },
+    {
+      "id": "E5",
+      "evidence_type": "property",
+      "source": {
+        "section": "Results",
+        "figure_or_table": "Fig. 3A"
+      },
+      "supports_ms3": {
+        "elements": [
+          "material",
+          "sensor"
+        ],
+        "relations": [
+          "material_to_sensor"
+        ]
+      }
+    },
+    {
+      "id": "E6",
+      "evidence_type": "property",
+      "source": {
+        "section": "Results",
+        "figure_or_table": "Fig. 3C"
+      },
+      "supports_ms3": {
+        "elements": [
+          "material",
+          "sensor"
+        ],
+        "relations": [
+          "material_to_sensor"
+        ]
+      }
+    },
+    {
+      "id": "E7",
+      "evidence_type": "property",
+      "source": {
+        "section": "Results",
+        "figure_or_table": "Fig. 3F"
+      },
+      "supports_ms3": {
+        "elements": [
+          "material",
+          "sensor"
+        ],
+        "relations": [
+          "material_to_sensor"
+        ]
+      }
+    },
+    {
+      "id": "E8",
+      "evidence_type": "property",
+      "source": {
+        "section": "Results",
+        "figure_or_table": "Fig. 4A"
+      },
+      "supports_ms3": {
+        "elements": [
+          "sensor",
+          "signal"
+        ],
+        "relations": [
+          "sensor_to_signal"
+        ]
+      }
+    },
+    {
+      "id": "E9",
+      "evidence_type": "experiment",
+      "source": {
+        "section": "Results",
+        "figure_or_table": "Fig. 4C"
+      },
+      "supports_ms3": {
+        "elements": [
+          "sensor",
+          "signal"
+        ],
+        "relations": [
+          "sensor_to_signal"
+        ]
+      }
+    },
+    {
+      "id": "E10",
+      "evidence_type": "experiment",
+      "source": {
+        "section": "Results",
+        "figure_or_table": "Fig. 5B"
+      },
+      "supports_ms3": {
+        "elements": [
+          "sensor",
+          "signal"
+        ],
+        "relations": [
+          "sensor_to_signal"
+        ]
+      }
+    },
+    {
+      "id": "E11",
+      "evidence_type": "experiment",
+      "source": {
+        "section": "Results",
+        "figure_or_table": "Fig. 5I"
+      },
+      "supports_ms3": {
+        "elements": [
+          "sensor",
+          "signal"
+        ],
+        "relations": [
+          "sensor_to_signal"
+        ]
+      }
+    },
+    {
+      "id": "E12",
+      "evidence_type": "experiment",
+      "source": {
+        "section": "Results",
+        "figure_or_table": "Fig. 5K"
+      },
+      "supports_ms3": {
+        "elements": [
+          "sensor",
+          "signal"
+        ],
+        "relations": [
+          "sensor_to_signal"
+        ]
+      }
+    },
+    {
+      "id": "E13",
+      "evidence_type": "validation",
+      "source": {
+        "section": "Results",
+        "figure_or_table": null
+      },
+      "supports_ms3": {
+        "elements": [
+          "sensor",
+          "signal",
+          "system"
+        ],
+        "relations": [
+          "sensor_to_signal",
+          "signal_to_system"
+        ]
+      }
+    },
+    {
+      "id": "E14",
+      "evidence_type": "experiment",
+      "source": {
+        "section": "Methods",
+        "figure_or_table": null
+      },
+      "supports_ms3": {
+        "elements": [
+          "material"
+        ],
+        "relations": []
+      }
+    }
+  ],
+  "mechanism_objects": [
+    {
+      "mechanism_id": "MO_001",
+      "mechanism_scope": "Material-to-Sensor-to-Signal-to-System",
+      "task": "long-term continuous electrophysiological monitoring",
+      "evidence_chain": {
+        "experiment": [
+          "E1",
+          "E2",
+          "E3",
+          "E4",
+          "E5",
+          "E6",
+          "E7",
+          "E8",
+          "E9",
+          "E10",
+          "E11",
+          "E12",
+          "E13",
+          "E14"
+        ]
+      }
+    }
+  ]
+}

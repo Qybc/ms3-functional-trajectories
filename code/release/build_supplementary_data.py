@@ -179,7 +179,7 @@ def _add_readme(wb: Workbook) -> None:
         ),
         (
             "Matched ablation",
-            "Role Graph versus MS3 is a separate matched representation experiment. The frozen blind archive contained seven systems; the paper and per-item sheet display six, excluding the archived LLaMat run.",
+            "Role Graph versus MS3 is a separate matched representation experiment from the six-system FS EvidenceQA comparison.",
         ),
         (
             "Files",

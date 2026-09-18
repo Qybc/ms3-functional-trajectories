@@ -1,0 +1,120 @@
+{
+  "schema_version": "fibersense_ms3_paper_data_v1.6_en_evidence_centered_ms3_single_direction_links",
+  "paper": {
+    "paper_id": "HI_RETRY_10_1002_smll_202506363",
+    "doi": "10.1002/smll.202506363",
+    "title": "Innovative Self‐Powered Sensing: Potential of Fabrigami and Electrospun Nanofiber‐Based Triboelectric Nanogenerator for Joint Biomechanics Monitoring",
+    "year": 2025,
+    "license": "CC BY"
+  },
+  "ms3": {
+    "material": {
+      "paper_terms": [
+        "electrospun polyvinylidene fluoride (PVDF)",
+        "silver-doped cellulose acetate (Ag-CA)"
+      ]
+    },
+    "sensor": {
+      "paper_terms": [
+        "triboelectric nanogenerator (TENG)",
+        "fabrigami structure"
+      ]
+    },
+    "signal": {
+      "paper_terms": [
+        "open-circuit voltage (VOC)",
+        "short-circuit current density (JSC)"
+      ]
+    },
+    "system": {
+      "paper_terms": [
+        "joint biomechanics monitoring",
+        "wearable knee sleeve"
+      ]
+    }
+  },
+  "mechanism_objects": [
+    {
+      "mechanism_id": "MO_001",
+      "mechanism_scope": "Material-to-Sensor-to-Signal-to-System",
+      "task": "joint biomechanics monitoring",
+      "ms3_elements": {
+        "material": "electrospun Ag-CA and PVDF nanofibers",
+        "sensor": "fabrigami TENG with six-sensor array",
+        "signal": "VOC, JSC, QSC, peak-to-peak voltage, response time",
+        "system": "wearable knee sleeve with Bluetooth data transmission for real-time angle measurement"
+      },
+      "evidence_chain": {
+        "experiment": [
+          "E1",
+          "E5",
+          "E7"
+        ]
+      }
+    }
+  ],
+  "evidence": [
+    {
+      "id": "E1",
+      "evidence_type": "experiment",
+      "source": {
+        "section": "Results and Discussion",
+        "figure_or_table": "Fig. 1"
+      },
+      "article_excerpt": [
+        "The electrospun membranes of Ag-CA and PVDF have been employed as the tribopositive and tribonegative layers, respectively. Six sensors made with Ag-CA and PVDF and attached Shieldex Zell RS piece as electrode were incorporated into the opposite sides of the valleys in the developed origami structure."
+      ],
+      "supports_ms3": {
+        "elements": [
+          "material",
+          "sensor"
+        ],
+        "relations": [
+          "material_to_sensor"
+        ]
+      }
+    },
+    {
+      "id": "E5",
+      "evidence_type": "validation",
+      "source": {
+        "section": "Assessing JBM Using the Fabrigami TENG Sensor",
+        "figure_or_table": "Fig. 8"
+      },
+      "article_excerpt": [
+        "We employed six sensors to detect angles ranging from 10° to 90° with 10° intervals. This represents the first development of a sensor using the TENG concept combined with a fabrigami structure."
+      ],
+      "supports_ms3": {
+        "elements": [
+          "sensor",
+          "system"
+        ],
+        "relations": [
+          "sensor_to_system"
+        ]
+      }
+    },
+    {
+      "id": "E7",
+      "evidence_type": "validation",
+      "source": {
+        "section": "Assessing JBM Using the Fabrigami TENG Sensor",
+        "figure_or_table": "Fig. 9"
+      },
+      "article_excerpt": [
+        "During the squatting process, we can see that the sensors are activated in a characteristic pattern as the knee bends and the folds are compressed. As the knee bends, each sensor responds in sequence after the topmost sensor, i.e., sensor 6, is activated, in correspondence with the knee flexion, which increases the knee flexion angle, e.g. sensor 5 has a 92 ms time delay after sensor 1, corresponding to bending by 30–40°."
+      ],
+      "supports_ms3": {
+        "elements": [
+          "sensor",
+          "signal",
+          "system"
+        ],
+        "relations": [
+          "sensor_to_signal",
+          "signal_to_system"
+        ]
+      }
+    }
+  ]
+}

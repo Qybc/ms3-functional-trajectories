@@ -11,8 +11,7 @@
 - the MS3 record schema and illustrative example.
 
 Author-owned code is covered by the BSD 3-Clause License. Author-generated,
-redistributable data and documentation are covered by CC BY 4.0. These licence
-choices were confirmed by the corresponding author before public deposit.
+redistributable data and documentation are covered by CC BY 4.0.
 
 ## Third-party inputs referenced but not redistributed
 
@@ -25,14 +24,6 @@ choices were confirmed by the corresponding author before public deposit.
 The release uses bibliographic metadata, source pointers and copyright-permitted
 derived fields in place of publisher content. Users must obtain third-party
 materials from their original sources under the applicable terms.
-
-## Controlled reviewer access
-
-Where licensing permits, the corresponding author may provide editors and
-reviewers with an expiring private link to frozen audit material that is not
-suited to public redistribution. Controlled access does not transfer rights to
-republish publisher content and should be logged against the release version and
-hash.
 
 ## Credentials and personal data
 
